@@ -1,0 +1,19 @@
+vuln_id,system,cve_id,cvss_score,exploit_available,patch_available,days_since_disclosure,exposure,category,risk_level
+VULN-1000,Cloud Storage Bucket,CVE-2024-8654,7.6,1,0,531,External,Cross-Site Scripting (XSS),High
+VULN-1001,Payment Gateway,CVE-2024-5258,6.4,0,0,8,External,Insecure Direct Object Reference,Medium
+VULN-1002,Payment Gateway,CVE-2024-8537,7.6,0,0,20,External,Sensitive Data Exposure,High
+VULN-1003,Email Server,CVE-2024-8302,2.9,0,0,590,Internal,Remote Code Execution,Low
+VULN-1004,Employee Intranet,CVE-2024-7537,4.5,1,0,355,External,Cross-Site Scripting (XSS),Medium
+VULN-1005,Admin Dashboard,CVE-2024-7036,7.4,0,1,24,External,Weak Authentication,High
+VULN-1006,Email Server,CVE-2024-5004,1.0,1,1,42,External,Insecure Direct Object Reference,Low
+VULN-1007,Login Portal,CVE-2024-9503,2.4,0,1,889,External,SQL Injection,Low
+VULN-1008,Web Server (Apache),CVE-2024-7475,9.9,0,0,579,Internal,Cross-Site Scripting (XSS),High
+VULN-1009,File Server (FTP),CVE-2024-4793,6.5,0,0,615,External,Open Port / Unnecessary Service,Medium
+VULN-1010,Login Portal,CVE-2024-7988,1.8,1,1,496,External,Open Port / Unnecessary Service,Low
+VULN-1011,Email Server,CVE-2024-2204,1.2,1,1,427,External,SQL Injection,Low
+VULN-1012,Cloud Storage Bucket,CVE-2024-6513,4.1,0,1,81,Internal,Sensitive Data Exposure,Medium
+VULN-1013,Web Server (Apache),CVE-2024-9062,2.9,0,1,28,External,Remote Code Execution,Low
+VULN-1014,API Gateway,CVE-2024-2352,8.4,1,0,326,Internal,Weak Authentication,High
+VULN-1015,Email Server,CVE-2024-9380,2.7,0,1,472,Internal,Remote Code Execution,Low
+VULN-1016,Database Server (MySQL),CVE-2024-5846,6.2,1,1,729,External,Outdated Software / Missing Patch,Medium
+VULN-1017,Admin Dashboard,CVE-2024-7667,6.5,0,1,749,External,Open Port / Unnecessary Service,Medium

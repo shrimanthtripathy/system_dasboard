@@ -1,0 +1,1201 @@
+cvss_score,exploit_available,patch_available,days_since_disclosure,exposure,category,attack_probability,attack_likelihood
+8.0,0,1,78,Internal,Open Port / Unnecessary Service,0.3816125429365727,Medium
+9.8,1,1,462,External,Cross-Site Scripting (XSS),0.9077475738417247,High
+4.3,1,1,362,External,Sensitive Data Exposure,0.6301329649202805,Medium
+3.0,1,0,772,External,Sensitive Data Exposure,0.6127310273086708,Medium
+7.8,0,1,401,External,Sensitive Data Exposure,0.5685455711114337,Medium
+2.8,0,0,492,External,Cross-Site Scripting (XSS),0.4256520619515339,Medium
+7.7,1,0,815,External,Weak Authentication,0.8649301160097635,High
+2.7,0,1,297,External,Outdated Software / Missing Patch,0.3170559052098177,Low
+4.9,1,1,88,External,Weak Authentication,0.6436175086981928,Medium
+8.2,0,0,216,Internal,Open Port / Unnecessary Service,0.4957066248327763,Medium
+2.8,0,1,702,External,Open Port / Unnecessary Service,0.3164211120657899,Low
+8.0,0,1,34,Internal,Cross-Site Scripting (XSS),0.38922453821951125,Medium
+7.0,0,1,72,External,Broken Access Control,0.43217729564991664,Medium
+6.0,1,0,542,External,SQL Injection,0.7919656137114585,High
+2.9,0,1,32,Internal,Outdated Software / Missing Patch,0.10817181214377886,Low
+3.5,0,1,114,External,Insecure Direct Object Reference,0.3437756439650647,Low
+7.0,0,1,289,Internal,Cross-Site Scripting (XSS),0.3330416609296385,Low
+1.8,1,1,645,External,Cross-Site Scripting (XSS),0.5022104957850789,Medium
+2.4,1,1,150,Internal,Weak Authentication,0.32723791021549126,Low
+6.7,0,0,308,External,Cross-Site Scripting (XSS),0.5557514990801675,Medium
+9.2,1,0,688,External,Remote Code Execution,0.9526293312481394,High
+7.5,0,0,72,External,SQL Injection,0.5777198547350315,Medium
+5.1,0,0,727,Internal,Insecure Direct Object Reference,0.4345920796087993,Medium
+8.7,1,1,597,External,Misconfigured Server,0.8750028824319563,High
+6.3,1,0,681,Internal,Misconfigured Server,0.535775209385035,Medium
+5.4,0,0,610,External,Cross-Site Scripting (XSS),0.43243822659050524,Medium
+2.5,1,1,402,External,Weak Authentication,0.5260947287305752,Medium
+1.2,1,1,420,Internal,Broken Access Control,0.3062238127545156,Low
+5.4,0,1,145,External,Insecure Direct Object Reference,0.4117377054304861,Medium
+3.4,0,1,764,Internal,Misconfigured Server,0.20631054099557264,Low
+8.4,1,0,272,Internal,Insecure Direct Object Reference,0.8490030488636636,High
+7.1,0,1,657,External,Broken Access Control,0.4503989618653859,Medium
+2.0,1,0,213,External,SQL Injection,0.5829530829769834,Medium
+4.3,1,1,866,External,Weak Authentication,0.7437496914857277,High
+3.6,0,0,892,Internal,Remote Code Execution,0.3438907053656479,Low
+1.4,0,1,137,External,Sensitive Data Exposure,0.2537642797299242,Low
+9.0,1,1,423,External,Weak Authentication,0.8027996814156269,High
+7.0,0,0,663,Internal,Broken Access Control,0.3694295747905507,Medium
+9.4,0,0,61,Internal,Sensitive Data Exposure,0.5347621261000259,Medium
+2.6,1,1,41,Internal,Cross-Site Scripting (XSS),0.3747284821688551,Medium
+8.0,1,1,390,Internal,Cross-Site Scripting (XSS),0.5702990639544381,Medium
+3.1,0,1,872,External,Cross-Site Scripting (XSS),0.3037831113554163,Low
+7.2,1,0,778,External,Sensitive Data Exposure,0.863620038235861,High
+7.7,0,0,510,Internal,Remote Code Execution,0.42759575218029444,Medium
+3.7,0,1,283,Internal,Remote Code Execution,0.17730872382961135,Low
+9.3,0,1,134,Internal,Open Port / Unnecessary Service,0.43071859581791716,Medium
+2.3,0,1,150,External,Insecure Direct Object Reference,0.26361264518610766,Low
+8.2,0,1,762,Internal,SQL Injection,0.3860187504176176,Medium
+8.5,1,0,301,External,Insecure Direct Object Reference,0.9289096258115134,High
+8.8,1,1,107,External,Weak Authentication,0.846502792158561,High
+6.9,1,1,478,Internal,Outdated Software / Missing Patch,0.6030979707838837,Medium
+7.7,1,0,793,External,SQL Injection,0.8496440441860402,High
+2.3,1,0,831,External,Cross-Site Scripting (XSS),0.6862492808559386,High
+2.5,0,0,410,Internal,Cross-Site Scripting (XSS),0.21020577685442518,Low
+1.5,0,0,386,External,Insecure Direct Object Reference,0.3829024753588437,Medium
+4.5,0,1,662,External,Sensitive Data Exposure,0.3356884069339056,Low
+1.4,0,0,206,External,Outdated Software / Missing Patch,0.3701678046008835,Medium
+4.7,0,1,833,Internal,Insecure Direct Object Reference,0.2567746050470038,Low
+8.5,0,1,620,External,SQL Injection,0.5045069999277237,Medium
+9.1,1,1,521,External,Broken Access Control,0.8227494708461021,High
+8.0,0,1,291,External,Insecure Direct Object Reference,0.5288717806052439,Medium
+5.2,0,1,225,Internal,Outdated Software / Missing Patch,0.2601395669582227,Low
+5.3,0,0,305,Internal,Weak Authentication,0.30633503819739555,Low
+3.9,0,1,212,External,Outdated Software / Missing Patch,0.2819091254195181,Low
+9.2,0,0,414,External,Insecure Direct Object Reference,0.696979226642354,High
+6.9,1,1,689,Internal,Open Port / Unnecessary Service,0.5754402969337876,Medium
+7.6,0,1,453,Internal,Sensitive Data Exposure,0.378941947253178,Medium
+6.5,0,1,523,External,SQL Injection,0.5095315316794745,Medium
+2.2,1,1,366,External,Insecure Direct Object Reference,0.43689396501578587,Medium
+8.2,1,0,649,Internal,Insecure Direct Object Reference,0.7677749613814363,High
+6.5,0,1,8,External,Insecure Direct Object Reference,0.5041767928212311,Medium
+5.7,1,1,466,External,Misconfigured Server,0.6675125466703653,High
+9.4,0,0,649,External,SQL Injection,0.6685148263936771,High
+4.8,1,1,657,External,Weak Authentication,0.6901121913589796,High
+7.9,0,1,479,Internal,Weak Authentication,0.39478343692151824,Medium
+2.3,1,1,664,External,Weak Authentication,0.5851830424277669,Medium
+6.0,1,1,551,Internal,Misconfigured Server,0.5333503256085472,Medium
+9.9,1,1,381,External,Cross-Site Scripting (XSS),0.7925757529805562,High
+6.7,0,1,30,Internal,Open Port / Unnecessary Service,0.2976661284311041,Low
+5.1,1,0,871,External,Misconfigured Server,0.7555974812383274,High
+3.7,1,1,490,External,Cross-Site Scripting (XSS),0.6324884133246009,Medium
+8.9,0,1,39,External,Cross-Site Scripting (XSS),0.5623483090855244,Medium
+7.0,1,0,612,Internal,Sensitive Data Exposure,0.6174575383782449,Medium
+3.2,0,1,727,External,Cross-Site Scripting (XSS),0.27463073488372897,Low
+6.9,0,0,141,External,SQL Injection,0.6125227851626961,Medium
+8.2,0,1,221,External,SQL Injection,0.5652660286486701,Medium
+9.4,1,1,737,Internal,Sensitive Data Exposure,0.6819322761490201,High
+2.8,0,1,486,External,Broken Access Control,0.302947560171636,Low
+8.7,0,1,48,Internal,Cross-Site Scripting (XSS),0.4164453443554759,Medium
+7.4,1,1,458,External,SQL Injection,0.7818646612368084,High
+1.4,1,1,370,Internal,Cross-Site Scripting (XSS),0.3773676653612731,Medium
+2.7,1,1,489,External,Broken Access Control,0.5614909480277447,Medium
+6.2,0,1,487,External,Weak Authentication,0.4513141386071307,Medium
+7.3,1,1,142,External,Cross-Site Scripting (XSS),0.7234464856494965,High
+4.6,0,0,876,Internal,Cross-Site Scripting (XSS),0.40845380669332926,Medium
+3.7,0,1,361,External,Open Port / Unnecessary Service,0.22401284180162867,Low
+4.7,0,1,541,Internal,Weak Authentication,0.2346227893009887,Low
+4.8,0,0,86,External,Insecure Direct Object Reference,0.47242778297698074,Medium
+7.3,1,1,555,External,Weak Authentication,0.688065885289824,High
+5.9,0,1,474,External,Weak Authentication,0.45847401399023574,Medium
+7.6,1,1,765,External,Insecure Direct Object Reference,0.7519359493778304,High
+8.2,0,1,346,Internal,Misconfigured Server,0.4313444620380096,Medium
+1.6,1,0,70,Internal,Outdated Software / Missing Patch,0.41960928468717257,Medium
+2.6,0,1,812,External,SQL Injection,0.34556877315058376,Low
+8.7,0,0,216,Internal,Open Port / Unnecessary Service,0.5644421802585611,Medium
+4.3,1,1,405,Internal,Broken Access Control,0.48514647913567366,Medium
+7.2,1,1,833,Internal,Open Port / Unnecessary Service,0.5764917206066356,Medium
+2.9,0,0,640,External,Cross-Site Scripting (XSS),0.3403396239703236,Low
+9.9,1,1,721,Internal,Remote Code Execution,0.8232247614313741,High
+5.0,0,0,752,External,Broken Access Control,0.5112131681184018,Medium
+5.2,0,0,220,Internal,Remote Code Execution,0.3117939748405062,Low
+3.1,0,1,896,External,Insecure Direct Object Reference,0.34649063218081905,Low
+1.8,0,1,768,External,Open Port / Unnecessary Service,0.2640961001425342,Low
+7.0,1,0,652,External,Weak Authentication,0.8938293354328566,High
+4.0,1,1,478,External,Broken Access Control,0.6082519646774106,Medium
+5.5,1,1,109,Internal,Sensitive Data Exposure,0.5042430347364766,Medium
+5.5,0,0,20,External,Weak Authentication,0.46288212505946297,Medium
+6.7,0,0,285,Internal,Cross-Site Scripting (XSS),0.4408117382707081,Medium
+9.3,0,0,129,Internal,Insecure Direct Object Reference,0.4739733305489176,Medium
+3.5,1,1,642,External,Remote Code Execution,0.626461138654865,Medium
+5.3,1,1,464,External,Broken Access Control,0.7404746534272845,High
+8.0,1,0,456,External,Broken Access Control,0.8090990314283758,High
+6.0,1,1,97,Internal,Remote Code Execution,0.402077427321323,Medium
+7.6,1,0,5,Internal,Cross-Site Scripting (XSS),0.7231217155354939,High
+8.0,0,1,773,External,Misconfigured Server,0.6803393352186008,High
+4.7,1,0,200,External,Insecure Direct Object Reference,0.6725648686675164,High
+9.3,1,0,50,Internal,Weak Authentication,0.7087429898376785,High
+2.0,1,1,591,External,Broken Access Control,0.5522817800223571,Medium
+7.7,1,0,817,External,Outdated Software / Missing Patch,0.8498528093859735,High
+8.7,0,1,237,Internal,Open Port / Unnecessary Service,0.3793653924698298,Medium
+4.6,1,1,229,External,Outdated Software / Missing Patch,0.6023163488880333,Medium
+4.1,1,0,638,Internal,Insecure Direct Object Reference,0.5965445487590343,Medium
+3.5,1,0,611,Internal,SQL Injection,0.5211793263747885,Medium
+7.5,1,1,574,External,Outdated Software / Missing Patch,0.7832830308928969,High
+2.2,1,1,770,External,Broken Access Control,0.532951114833099,Medium
+4.5,1,1,310,Internal,Cross-Site Scripting (XSS),0.4274886670396421,Medium
+1.6,0,0,272,External,Misconfigured Server,0.3211197982239501,Low
+4.1,0,1,866,External,Broken Access Control,0.3350911278527152,Low
+3.6,1,0,504,External,Weak Authentication,0.6903257492934874,High
+5.8,1,1,558,Internal,Open Port / Unnecessary Service,0.4858066886217182,Medium
+3.2,0,0,312,Internal,Sensitive Data Exposure,0.2066886148685712,Low
+6.1,1,1,571,External,Misconfigured Server,0.779070312987485,High
+10.0,1,1,604,External,Remote Code Execution,0.8808963445402884,High
+2.7,1,0,385,External,Open Port / Unnecessary Service,0.6401937876152867,Medium
+5.6,0,0,844,Internal,Remote Code Execution,0.4244657098847698,Medium
+1.4,0,0,886,External,Misconfigured Server,0.34117937209477867,Low
+3.8,0,0,572,Internal,Weak Authentication,0.29135100940386993,Low
+7.3,0,0,441,External,Weak Authentication,0.6242574367665954,Medium
+1.0,0,1,147,External,SQL Injection,0.21728745877888675,Low
+5.4,0,1,496,External,Broken Access Control,0.3625907192089341,Medium
+3.3,0,0,822,External,Misconfigured Server,0.48583379650014974,Medium
+3.1,0,1,434,External,SQL Injection,0.2840893639466589,Low
+7.4,0,0,287,External,Cross-Site Scripting (XSS),0.5461404969287351,Medium
+1.1,0,0,139,External,Cross-Site Scripting (XSS),0.26219846872226965,Low
+3.2,1,1,619,Internal,Sensitive Data Exposure,0.4088616216711228,Medium
+8.7,1,0,807,External,Broken Access Control,1.0,High
+3.3,1,1,871,External,Open Port / Unnecessary Service,0.5381120936428498,Medium
+4.3,1,0,493,External,Broken Access Control,0.728892683515606,High
+2.9,0,0,741,Internal,SQL Injection,0.1647754487621378,Low
+4.1,0,0,593,External,Broken Access Control,0.4673660977871846,Medium
+7.6,0,1,133,Internal,Insecure Direct Object Reference,0.39436720976268924,Medium
+2.3,1,0,715,External,Insecure Direct Object Reference,0.6313890561191494,Medium
+1.0,0,1,520,Internal,Insecure Direct Object Reference,0.042421142694721796,Low
+9.1,1,1,149,Internal,Open Port / Unnecessary Service,0.6793533309807047,High
+1.5,1,0,309,External,Open Port / Unnecessary Service,0.6196742542241992,Medium
+1.2,1,0,762,Internal,Sensitive Data Exposure,0.4795162118842037,Medium
+6.5,1,1,676,External,Open Port / Unnecessary Service,0.8286792482520452,High
+6.1,1,1,135,External,Misconfigured Server,0.6924583736168137,High
+1.1,1,1,385,Internal,Misconfigured Server,0.29126838390124227,Low
+9.0,0,1,422,External,Cross-Site Scripting (XSS),0.5721454849451124,Medium
+2.6,0,1,885,Internal,Remote Code Execution,0.1625417393856761,Low
+5.2,1,1,581,External,Weak Authentication,0.6717146469516837,High
+7.7,1,1,854,Internal,Insecure Direct Object Reference,0.6424430537829727,Medium
+9.1,1,1,453,Internal,SQL Injection,0.6933649636114768,High
+7.7,0,1,889,External,Weak Authentication,0.46234638585813337,Medium
+9.0,0,0,313,External,Open Port / Unnecessary Service,0.7138703366908911,High
+4.7,1,1,454,Internal,Misconfigured Server,0.4579852587761706,Medium
+4.4,0,0,299,External,Cross-Site Scripting (XSS),0.40595317628875993,Medium
+4.1,1,0,179,External,SQL Injection,0.7263320024265162,High
+8.9,0,0,878,External,Cross-Site Scripting (XSS),0.7651440781470819,High
+5.2,0,0,8,External,Misconfigured Server,0.5090958519194166,Medium
+6.9,0,0,211,Internal,Outdated Software / Missing Patch,0.43028018791449835,Medium
+7.9,1,1,95,External,Remote Code Execution,0.7141667625091803,High
+9.6,0,0,847,External,Weak Authentication,0.8726339224462304,High
+1.9,1,1,362,Internal,Insecure Direct Object Reference,0.39962404214418656,Medium
+3.3,0,1,338,External,Insecure Direct Object Reference,0.26031304426062896,Low
+3.7,0,1,100,External,Broken Access Control,0.2830736597435683,Low
+2.9,1,0,210,Internal,Sensitive Data Exposure,0.4965156290952619,Medium
+3.4,1,0,585,External,Misconfigured Server,0.6077634434002007,Medium
+3.2,1,1,517,Internal,Sensitive Data Exposure,0.4311537425727479,Medium
+5.8,0,0,267,External,Cross-Site Scripting (XSS),0.5028797555476954,Medium
+9.0,1,1,254,External,Misconfigured Server,0.880424641126922,High
+5.8,0,0,324,External,Cross-Site Scripting (XSS),0.5771077331814124,Medium
+5.3,1,0,335,Internal,Insecure Direct Object Reference,0.4715468392393725,Medium
+3.3,0,0,142,Internal,Remote Code Execution,0.2584740181902545,Low
+6.5,0,1,476,Internal,Insecure Direct Object Reference,0.23807106946826007,Low
+9.9,1,1,334,Internal,Misconfigured Server,0.7695374555179817,High
+9.3,0,0,838,External,Weak Authentication,0.7234608490119467,High
+6.6,1,1,744,External,Outdated Software / Missing Patch,0.7657536059426832,High
+4.9,1,0,497,Internal,Remote Code Execution,0.5448548746709462,Medium
+1.6,0,0,391,External,Cross-Site Scripting (XSS),0.43514373412199725,Medium
+4.5,1,0,373,External,Broken Access Control,0.8242258905797445,High
+6.9,1,1,552,Internal,Remote Code Execution,0.537928114535356,Medium
+2.6,1,1,525,External,SQL Injection,0.5648074227599825,Medium
+9.0,1,1,408,External,Insecure Direct Object Reference,0.7940015452471574,High
+3.7,1,1,661,External,Broken Access Control,0.6020437253791856,Medium
+6.1,1,1,652,External,Remote Code Execution,0.647440373260994,Medium
+6.8,0,1,418,Internal,Misconfigured Server,0.42257949795125316,Medium
+1.8,1,1,660,Internal,Open Port / Unnecessary Service,0.3192076911125333,Low
+3.9,0,1,845,Internal,Sensitive Data Exposure,0.20764025369456973,Low
+7.0,0,0,689,Internal,Cross-Site Scripting (XSS),0.478351924333304,Medium
+7.1,1,0,864,External,Insecure Direct Object Reference,0.8351219660791936,High
+9.6,1,0,277,Internal,Open Port / Unnecessary Service,0.7854232674022738,High
+9.8,0,1,490,External,SQL Injection,0.5900402299008741,Medium
+8.9,1,1,159,External,Remote Code Execution,0.8026602955915187,High
+3.9,0,1,399,Internal,Open Port / Unnecessary Service,0.13913953491165154,Low
+3.2,1,1,285,External,Sensitive Data Exposure,0.5379339295532184,Medium
+7.7,1,1,95,External,Misconfigured Server,0.7414331315421656,High
+3.2,1,0,275,External,Outdated Software / Missing Patch,0.6425914775875711,Medium
+4.7,0,1,262,Internal,Sensitive Data Exposure,0.2288900533002453,Low
+1.1,0,1,121,Internal,Sensitive Data Exposure,0.04156711125438617,Low
+8.0,0,1,406,Internal,Remote Code Execution,0.42021612597752467,Medium
+2.4,0,1,790,External,Remote Code Execution,0.2857290925995974,Low
+1.6,0,1,225,External,Outdated Software / Missing Patch,0.2276675201852058,Low
+7.0,0,1,518,External,Cross-Site Scripting (XSS),0.46053871097798516,Medium
+6.0,0,1,717,External,Open Port / Unnecessary Service,0.43350759132757155,Medium
+10.0,0,0,615,External,Broken Access Control,0.670942027125681,High
+3.9,0,1,189,External,SQL Injection,0.3619392460438982,Medium
+4.2,1,1,815,External,Sensitive Data Exposure,0.5771518768951532,Medium
+3.9,1,1,151,External,Misconfigured Server,0.5465960689794727,Medium
+2.3,1,0,293,External,Cross-Site Scripting (XSS),0.6377400103783378,Medium
+1.6,0,0,79,External,Misconfigured Server,0.34651755718611554,Low
+1.3,1,1,308,Internal,Cross-Site Scripting (XSS),0.3056053735608576,Low
+8.7,1,1,409,Internal,Sensitive Data Exposure,0.5632589316977821,Medium
+4.6,1,0,295,External,Broken Access Control,0.7444145532536677,High
+7.8,0,1,371,Internal,Outdated Software / Missing Patch,0.38458928405571413,Medium
+7.8,0,0,304,Internal,Cross-Site Scripting (XSS),0.3972698281153002,Medium
+8.4,0,1,768,External,Cross-Site Scripting (XSS),0.6091827708063915,Medium
+5.0,0,1,857,External,Remote Code Execution,0.3875561210894398,Medium
+2.7,0,1,851,External,Outdated Software / Missing Patch,0.2624683719701128,Low
+6.1,1,1,334,Internal,Broken Access Control,0.5478420911037684,Medium
+1.4,1,1,557,External,Outdated Software / Missing Patch,0.4850209228744837,Medium
+7.8,1,1,142,Internal,Weak Authentication,0.6190200889384462,Medium
+5.7,0,1,575,Internal,Open Port / Unnecessary Service,0.20815704152822256,Low
+1.0,0,1,696,Internal,Open Port / Unnecessary Service,0.17427817248028532,Low
+9.0,0,1,756,Internal,Remote Code Execution,0.4168670692728136,Medium
+2.9,1,0,271,Internal,Open Port / Unnecessary Service,0.418572590130735,Medium
+1.9,0,1,469,Internal,Cross-Site Scripting (XSS),0.14249766498391303,Low
+8.7,0,1,220,Internal,SQL Injection,0.3859820157171634,Medium
+3.4,1,0,721,External,Sensitive Data Exposure,0.7092984798442007,High
+1.9,0,0,414,Internal,Open Port / Unnecessary Service,0.19151957846874806,Low
+8.7,1,1,623,External,Insecure Direct Object Reference,0.8231240930871151,High
+1.4,0,0,422,External,Remote Code Execution,0.34873308663137614,Low
+8.3,0,1,294,External,Misconfigured Server,0.5025006891341884,Medium
+9.7,0,1,715,Internal,Insecure Direct Object Reference,0.5101592020152002,Medium
+3.9,0,0,718,External,Sensitive Data Exposure,0.4418938839349117,Medium
+4.2,0,1,720,External,Open Port / Unnecessary Service,0.3355156427914764,Low
+9.4,0,0,244,External,Misconfigured Server,0.6904071766466807,High
+5.2,1,1,333,Internal,Weak Authentication,0.5247520639245521,Medium
+4.4,0,0,451,Internal,Broken Access Control,0.3116015884746236,Low
+2.9,1,1,479,External,Outdated Software / Missing Patch,0.513985121757133,Medium
+9.3,1,1,893,External,SQL Injection,0.8991003894265429,High
+4.5,1,1,881,Internal,SQL Injection,0.4134280048383056,Medium
+7.1,1,0,302,External,Broken Access Control,0.7847345709760012,High
+5.5,0,0,511,Internal,Broken Access Control,0.37786503341555816,Medium
+8.9,0,1,53,Internal,Outdated Software / Missing Patch,0.3353914745291911,Low
+8.0,0,1,217,External,Remote Code Execution,0.5234552687680141,Medium
+8.7,0,1,865,Internal,Sensitive Data Exposure,0.43681239965463237,Medium
+1.9,1,1,220,External,Insecure Direct Object Reference,0.5426592116651308,Medium
+6.5,0,1,115,Internal,Misconfigured Server,0.25314937129822435,Low
+8.2,1,0,635,External,Weak Authentication,0.8729824515956957,High
+1.2,0,1,390,Internal,Open Port / Unnecessary Service,0.09232575090171667,Low
+7.0,0,1,123,External,SQL Injection,0.348955153823043,Low
+5.7,0,0,517,Internal,Cross-Site Scripting (XSS),0.5402243371679515,Medium
+1.9,1,1,202,External,Sensitive Data Exposure,0.4617896856991338,Medium
+1.7,1,1,795,External,Open Port / Unnecessary Service,0.4841749140303888,Medium
+4.9,0,1,333,External,Remote Code Execution,0.4320563755451857,Medium
+1.4,1,0,470,Internal,Remote Code Execution,0.4371195190393269,Medium
+9.4,1,0,255,External,SQL Injection,0.8481952357314871,High
+2.4,0,1,784,Internal,Insecure Direct Object Reference,0.18290192456018617,Low
+5.0,0,1,260,Internal,Weak Authentication,0.2822133361444049,Low
+3.6,1,0,606,External,Sensitive Data Exposure,0.6731693529928696,High
+8.5,1,1,326,Internal,Remote Code Execution,0.6365310931965099,Medium
+8.2,0,1,868,External,Sensitive Data Exposure,0.5915214520851919,Medium
+7.3,0,1,776,Internal,Weak Authentication,0.32617209861538865,Low
+4.5,0,0,511,External,Broken Access Control,0.5028083170992343,Medium
+9.4,1,0,284,Internal,Cross-Site Scripting (XSS),0.7987427033000027,High
+9.8,0,1,598,External,Remote Code Execution,0.5904755914334264,Medium
+3.1,0,0,839,Internal,SQL Injection,0.21650601742051892,Low
+6.1,1,1,594,Internal,Open Port / Unnecessary Service,0.5462197084619457,Medium
+8.2,1,1,562,Internal,Remote Code Execution,0.6064511093092139,Medium
+1.8,0,1,559,Internal,Remote Code Execution,0.16212606683956376,Low
+7.9,0,0,555,External,Weak Authentication,0.6435376017583295,Medium
+7.1,0,0,691,Internal,Broken Access Control,0.4969931150168837,Medium
+9.4,0,0,530,External,Misconfigured Server,0.7091755412116675,High
+5.6,0,1,89,External,Misconfigured Server,0.42008950029869596,Medium
+4.8,0,1,217,External,Outdated Software / Missing Patch,0.3389056096940365,Low
+1.5,1,1,445,External,Sensitive Data Exposure,0.5256245935508295,Medium
+1.5,1,1,673,External,Broken Access Control,0.5941238026042401,Medium
+6.7,1,1,272,External,Weak Authentication,0.7011267333352341,High
+7.0,1,1,539,External,Misconfigured Server,0.715305718058737,High
+5.6,1,1,479,External,Outdated Software / Missing Patch,0.6707192760015935,High
+2.2,0,1,102,External,Broken Access Control,0.23060265248661047,Low
+3.5,0,1,722,Internal,Cross-Site Scripting (XSS),0.16253714617843412,Low
+3.6,0,1,655,External,Broken Access Control,0.3552985710872972,Medium
+2.6,0,1,722,Internal,Cross-Site Scripting (XSS),0.14256523445860658,Low
+3.8,0,1,746,Internal,Broken Access Control,0.2843881241365774,Low
+5.3,1,1,99,External,Sensitive Data Exposure,0.6440100821477562,Medium
+8.4,0,1,164,External,Cross-Site Scripting (XSS),0.5533067099926825,Medium
+4.5,0,1,158,Internal,Weak Authentication,0.25887887117776787,Low
+2.2,0,0,774,Internal,Weak Authentication,0.22696220737477288,Low
+7.9,1,1,565,External,Open Port / Unnecessary Service,0.8587257158933359,High
+10.0,1,1,749,External,Remote Code Execution,0.8599764004851055,High
+5.1,0,0,523,External,Misconfigured Server,0.4681391704612494,Medium
+4.7,1,1,578,Internal,Sensitive Data Exposure,0.4752977601685985,Medium
+3.0,1,1,693,External,Remote Code Execution,0.5677641304016432,Medium
+9.0,0,1,674,External,Outdated Software / Missing Patch,0.522378534439492,Medium
+9.4,0,1,553,Internal,Outdated Software / Missing Patch,0.45196748301577994,Medium
+2.8,0,1,689,External,Misconfigured Server,0.23090344825580678,Low
+7.1,0,0,203,Internal,Sensitive Data Exposure,0.5003846978050527,Medium
+9.2,0,1,899,Internal,Sensitive Data Exposure,0.4598945968740597,Medium
+3.5,1,0,5,External,Misconfigured Server,0.6256798915429791,Medium
+3.3,1,1,521,External,Weak Authentication,0.5320275385302657,Medium
+2.9,0,1,327,Internal,Remote Code Execution,0.12944514295625684,Low
+2.9,0,1,691,Internal,SQL Injection,0.15773491546736756,Low
+7.7,0,0,156,External,Cross-Site Scripting (XSS),0.5529411183860987,Medium
+5.3,1,1,664,External,Open Port / Unnecessary Service,0.6293991341977472,Medium
+4.7,0,1,65,External,Outdated Software / Missing Patch,0.35575236085803436,Medium
+7.8,0,1,118,Internal,Outdated Software / Missing Patch,0.3315163681657735,Low
+5.2,0,1,191,External,Remote Code Execution,0.4415717662950272,Medium
+3.4,0,0,248,External,Cross-Site Scripting (XSS),0.4736712964900541,Medium
+4.6,0,1,569,Internal,Weak Authentication,0.2394121712911056,Low
+2.5,1,1,145,External,Outdated Software / Missing Patch,0.544235534158282,Medium
+8.7,1,0,471,External,SQL Injection,0.8509072479854106,High
+3.8,1,1,542,External,Cross-Site Scripting (XSS),0.6329819965827419,Medium
+9.4,1,1,51,External,Sensitive Data Exposure,0.8243041598576702,High
+7.7,1,1,559,Internal,Outdated Software / Missing Patch,0.6517889713530974,High
+3.1,0,1,455,Internal,Insecure Direct Object Reference,0.2447955843574608,Low
+8.1,1,0,697,External,Broken Access Control,0.789179334405004,High
+5.7,0,1,408,External,Remote Code Execution,0.4422140756193382,Medium
+9.3,1,1,320,External,Open Port / Unnecessary Service,0.7813218246193847,High
+9.9,0,1,554,Internal,Sensitive Data Exposure,0.5058876123480022,Medium
+8.1,0,1,432,Internal,Sensitive Data Exposure,0.3228343281285767,Low
+7.9,0,1,265,External,Open Port / Unnecessary Service,0.4954522438720226,Medium
+1.2,0,1,288,External,Insecure Direct Object Reference,0.23013668778801866,Low
+1.5,0,1,675,Internal,SQL Injection,0.13567546932176863,Low
+9.5,0,1,485,External,Outdated Software / Missing Patch,0.608184148911273,Medium
+7.7,1,0,493,External,Insecure Direct Object Reference,0.8342473419394983,High
+3.2,0,0,307,External,Remote Code Execution,0.38337894466978517,Medium
+6.7,1,1,93,External,Misconfigured Server,0.7508918112291357,High
+6.8,0,1,753,Internal,Sensitive Data Exposure,0.3475583525490064,Low
+6.2,0,1,153,External,Remote Code Execution,0.35330928015794716,Medium
+4.0,0,0,120,Internal,SQL Injection,0.32884980208015124,Low
+1.6,1,0,28,External,Cross-Site Scripting (XSS),0.5943679795412292,Medium
+6.2,1,1,368,External,Sensitive Data Exposure,0.7431152217070419,High
+5.7,1,1,634,External,Weak Authentication,0.6748908489033882,High
+2.5,1,0,380,Internal,Cross-Site Scripting (XSS),0.5250189370324416,Medium
+8.6,0,1,581,Internal,Sensitive Data Exposure,0.36622453177769404,Medium
+7.9,0,0,407,External,Open Port / Unnecessary Service,0.6566111016543842,High
+3.7,1,0,305,External,Insecure Direct Object Reference,0.6589254289630415,High
+6.5,1,0,295,External,Open Port / Unnecessary Service,0.8426064741348962,High
+7.1,0,1,47,Internal,Misconfigured Server,0.3723933169319306,Medium
+3.0,0,1,694,External,Outdated Software / Missing Patch,0.2867560479551291,Low
+5.9,1,1,486,External,Misconfigured Server,0.6899385260250629,High
+9.4,0,1,578,External,Open Port / Unnecessary Service,0.6070588424339111,Medium
+1.6,0,1,463,External,Remote Code Execution,0.30720546311425356,Low
+5.2,1,1,530,Internal,Cross-Site Scripting (XSS),0.5489723490129336,Medium
+1.9,0,1,330,External,Broken Access Control,0.19286945613281037,Low
+1.3,1,0,95,Internal,Remote Code Execution,0.4366581908132056,Medium
+6.6,0,1,277,External,Misconfigured Server,0.49964334935784577,Medium
+3.1,1,1,141,External,Broken Access Control,0.6535236281297205,High
+10.0,0,0,315,Internal,Outdated Software / Missing Patch,0.48354254516229045,Medium
+6.2,1,1,99,External,Insecure Direct Object Reference,0.6576823850033005,High
+8.7,1,0,341,External,Insecure Direct Object Reference,0.9771130038488112,High
+3.7,0,1,404,External,Remote Code Execution,0.2711909295141098,Low
+8.2,0,0,573,External,Insecure Direct Object Reference,0.5908603041370971,Medium
+5.5,1,1,611,Internal,Broken Access Control,0.5572985542134594,Medium
+4.0,0,0,479,External,Sensitive Data Exposure,0.5075315441550503,Medium
+3.1,1,1,159,Internal,SQL Injection,0.3648993089645557,Medium
+2.6,1,0,618,Internal,SQL Injection,0.5283396919479364,Medium
+6.2,0,1,93,External,Cross-Site Scripting (XSS),0.44001443013816405,Medium
+5.0,0,0,407,External,Sensitive Data Exposure,0.5735485628120478,Medium
+1.1,0,1,304,Internal,Insecure Direct Object Reference,0.06631296690345206,Low
+2.8,1,1,177,External,Insecure Direct Object Reference,0.5853456989317367,Medium
+5.4,0,1,694,Internal,Weak Authentication,0.2363996625898423,Low
+1.4,0,1,323,External,SQL Injection,0.22170050197134336,Low
+6.8,1,1,470,External,Sensitive Data Exposure,0.7272758884230203,High
+1.9,0,1,625,Internal,Outdated Software / Missing Patch,0.17717761959648348,Low
+3.0,0,1,75,External,Cross-Site Scripting (XSS),0.3181473186426895,Low
+9.3,0,1,479,External,SQL Injection,0.5575234545464327,Medium
+9.6,0,1,644,External,Remote Code Execution,0.6518761659617746,High
+9.7,1,0,60,External,Sensitive Data Exposure,0.9783648971547141,High
+6.5,0,1,452,External,Cross-Site Scripting (XSS),0.46202882499513875,Medium
+1.7,1,1,471,External,Misconfigured Server,0.48978355091507625,Medium
+3.8,1,1,21,Internal,Weak Authentication,0.4124765043955389,Medium
+3.0,0,1,469,Internal,Broken Access Control,0.07630593525611139,Low
+8.7,0,1,706,External,Outdated Software / Missing Patch,0.5901593726284531,Medium
+9.3,0,1,579,Internal,Remote Code Execution,0.4623955631280307,Medium
+1.8,1,0,279,External,SQL Injection,0.5532235738120505,Medium
+7.8,0,0,23,External,Sensitive Data Exposure,0.6394000902715312,Medium
+8.6,0,1,227,Internal,Open Port / Unnecessary Service,0.3309627643199299,Low
+9.0,0,0,244,External,Cross-Site Scripting (XSS),0.6409649144859078,Medium
+1.4,0,0,189,External,Misconfigured Server,0.2997390465504224,Low
+5.7,0,0,617,Internal,Open Port / Unnecessary Service,0.49015326937722387,Medium
+6.9,0,0,407,External,Outdated Software / Missing Patch,0.5031519079482171,Medium
+4.5,1,1,762,External,Insecure Direct Object Reference,0.6729648460936465,High
+1.2,0,0,769,Internal,Misconfigured Server,0.24382838610167037,Low
+8.0,1,0,881,External,Open Port / Unnecessary Service,0.927830722646438,High
+3.6,1,1,243,External,Remote Code Execution,0.6345903972176695,Medium
+1.4,0,1,483,Internal,Cross-Site Scripting (XSS),0.03969644897701221,Low
+9.9,0,1,93,Internal,Sensitive Data Exposure,0.33665373655105724,Low
+5.3,1,1,17,Internal,Cross-Site Scripting (XSS),0.5277853388929578,Medium
+9.5,0,1,42,External,SQL Injection,0.5200419250997788,Medium
+9.4,0,1,876,External,Outdated Software / Missing Patch,0.6053466728393699,Medium
+8.7,0,0,372,Internal,Sensitive Data Exposure,0.45322436679542777,Medium
+5.8,1,0,636,Internal,Weak Authentication,0.6989504261808098,High
+4.5,0,1,416,External,Cross-Site Scripting (XSS),0.4188686228544822,Medium
+3.4,0,0,273,External,Broken Access Control,0.38216348357131696,Medium
+4.3,1,1,239,External,Outdated Software / Missing Patch,0.6519523700082609,High
+4.1,0,1,498,Internal,Cross-Site Scripting (XSS),0.2182305296326525,Low
+7.7,0,1,815,External,Remote Code Execution,0.5348083362497904,Medium
+7.4,1,1,440,Internal,Weak Authentication,0.6103152775465628,Medium
+5.7,0,0,405,Internal,Open Port / Unnecessary Service,0.36886253200750224,Medium
+9.3,0,0,850,Internal,Cross-Site Scripting (XSS),0.5964724854127706,Medium
+3.5,0,0,246,Internal,Cross-Site Scripting (XSS),0.2866840451888208,Low
+4.5,0,0,294,Internal,SQL Injection,0.3013599760116422,Low
+2.8,1,1,316,External,Remote Code Execution,0.5938683428463334,Medium
+5.8,0,1,62,External,Broken Access Control,0.3838706637062532,Medium
+9.1,0,1,643,Internal,Sensitive Data Exposure,0.4595689043755948,Medium
+9.4,0,1,401,Internal,Broken Access Control,0.4663855463403936,Medium
+6.9,0,1,665,External,Broken Access Control,0.571384797436271,Medium
+8.7,0,0,880,Internal,Misconfigured Server,0.5151168207214404,Medium
+5.0,0,1,765,External,Misconfigured Server,0.5046541223155203,Medium
+3.4,1,1,681,External,Weak Authentication,0.5996415809144546,Medium
+4.8,0,1,45,Internal,Cross-Site Scripting (XSS),0.20880115446737135,Low
+6.1,0,1,868,External,Outdated Software / Missing Patch,0.43909858467529167,Medium
+8.1,1,1,150,External,Cross-Site Scripting (XSS),0.80214800428606,High
+2.5,1,1,285,External,Outdated Software / Missing Patch,0.5307800955554524,Medium
+2.0,1,1,234,External,SQL Injection,0.44781953670361074,Medium
+8.3,0,1,266,External,Outdated Software / Missing Patch,0.48188341896484604,Medium
+2.1,1,1,233,Internal,Cross-Site Scripting (XSS),0.32966848405441773,Low
+6.3,1,1,424,Internal,Cross-Site Scripting (XSS),0.5232552553619972,Medium
+10.0,0,1,232,External,Misconfigured Server,0.6674040084752493,High
+1.8,0,1,589,Internal,Remote Code Execution,0.18249913712073115,Low
+4.2,0,1,277,External,Cross-Site Scripting (XSS),0.39781687008226435,Medium
+3.3,1,0,532,External,SQL Injection,0.6959490000571087,High
+4.1,1,0,719,External,Remote Code Execution,0.703032534052214,High
+8.9,0,0,844,External,Weak Authentication,0.7001130494349012,High
+3.7,0,1,489,Internal,Outdated Software / Missing Patch,0.237902016968094,Low
+2.8,0,1,297,Internal,Weak Authentication,0.24904861168616566,Low
+5.8,1,1,261,External,Insecure Direct Object Reference,0.7211449602650897,High
+5.7,1,1,317,External,SQL Injection,0.660090503896375,High
+7.3,1,1,17,External,SQL Injection,0.7313456982329889,High
+2.1,1,1,73,External,Broken Access Control,0.47442831049796397,Medium
+6.7,1,1,532,External,Sensitive Data Exposure,0.6919356267580848,High
+1.3,1,0,141,External,Sensitive Data Exposure,0.5571212332224351,Medium
+4.8,0,0,634,Internal,Broken Access Control,0.361002956832478,Medium
+1.8,1,1,75,Internal,Cross-Site Scripting (XSS),0.4269617460005449,Medium
+9.7,1,1,193,Internal,Weak Authentication,0.6998238457198919,High
+1.4,1,0,809,External,SQL Injection,0.6758123481926162,High
+9.5,1,1,216,External,Misconfigured Server,0.9278744540562369,High
+3.9,0,1,264,External,Insecure Direct Object Reference,0.344107060179652,Low
+10.0,0,1,3,Internal,Cross-Site Scripting (XSS),0.5305566110474786,Medium
+3.6,0,1,742,External,Misconfigured Server,0.3889689924506664,Medium
+1.3,0,1,671,Internal,SQL Injection,0.07490101302979699,Low
+9.9,0,0,120,External,Insecure Direct Object Reference,0.7154256679091107,High
+6.2,0,1,277,External,Cross-Site Scripting (XSS),0.4455327797911355,Medium
+7.2,1,1,500,Internal,Insecure Direct Object Reference,0.5901608262805303,Medium
+2.5,0,1,853,External,Outdated Software / Missing Patch,0.2999498272391422,Low
+1.6,1,1,68,Internal,SQL Injection,0.3329882429514272,Low
+1.5,1,0,423,External,Insecure Direct Object Reference,0.6127090570241108,Medium
+8.2,0,1,800,Internal,Remote Code Execution,0.369200350686508,Medium
+8.5,0,1,89,External,Sensitive Data Exposure,0.5369750613446347,Medium
+7.2,0,1,56,External,Weak Authentication,0.4009933600138608,Medium
+5.2,0,0,689,Internal,Outdated Software / Missing Patch,0.38531755274178825,Medium
+2.3,1,1,517,External,Cross-Site Scripting (XSS),0.5634021960112914,Medium
+8.6,0,0,514,Internal,SQL Injection,0.5237532974735459,Medium
+7.9,1,0,302,Internal,Broken Access Control,0.7365704353737149,High
+6.3,1,1,505,External,SQL Injection,0.741052710733539,High
+9.9,0,0,454,External,Cross-Site Scripting (XSS),0.6874671800113723,High
+6.4,1,1,421,External,Sensitive Data Exposure,0.6994364459226595,High
+3.2,1,0,785,External,Weak Authentication,0.7131572133019004,High
+7.1,1,1,178,External,Insecure Direct Object Reference,0.779483175625346,High
+2.0,0,1,124,External,SQL Injection,0.2666349589561515,Low
+2.1,0,1,754,External,SQL Injection,0.4140318600066486,Medium
+7.5,0,1,761,External,Open Port / Unnecessary Service,0.5252097491685342,Medium
+8.5,1,1,422,External,Weak Authentication,0.8559274659121869,High
+9.6,1,1,371,External,Misconfigured Server,0.9159474950236153,High
+10.0,0,0,622,External,Insecure Direct Object Reference,0.7278670632384666,High
+6.1,0,1,765,External,Insecure Direct Object Reference,0.4259743558898629,Medium
+6.9,1,1,257,External,Broken Access Control,0.6656476314014181,High
+5.8,1,0,95,External,Outdated Software / Missing Patch,0.7743916277692364,High
+8.9,1,0,359,Internal,Insecure Direct Object Reference,0.8259590421713859,High
+7.6,1,1,864,Internal,Insecure Direct Object Reference,0.653583419942771,High
+5.0,1,1,333,Internal,Insecure Direct Object Reference,0.5021428037684876,Medium
+1.5,0,0,145,External,Weak Authentication,0.30659486140492026,Low
+5.5,0,0,204,External,Weak Authentication,0.5368848199730119,Medium
+4.5,1,1,516,External,Cross-Site Scripting (XSS),0.5243751140944806,Medium
+9.6,0,0,869,External,Remote Code Execution,0.7418964403465136,High
+5.7,1,0,672,External,Sensitive Data Exposure,0.7952396488109814,High
+1.3,1,1,448,Internal,Sensitive Data Exposure,0.26487187656080186,Low
+1.5,1,1,51,External,Insecure Direct Object Reference,0.5791132295405265,Medium
+5.2,0,0,229,Internal,SQL Injection,0.2773515606444929,Low
+8.5,0,0,823,Internal,Insecure Direct Object Reference,0.47434619737983924,Medium
+2.5,1,1,694,External,Open Port / Unnecessary Service,0.49101240017791425,Medium
+2.4,1,1,852,External,Sensitive Data Exposure,0.6108517234212677,Medium
+6.6,1,1,474,External,SQL Injection,0.6789290902753737,High
+6.3,1,1,297,External,SQL Injection,0.7334328206482107,High
+5.6,0,0,747,External,Outdated Software / Missing Patch,0.5728755076260625,Medium
+4.4,1,0,554,Internal,Weak Authentication,0.5917612983301849,Medium
+5.9,0,1,682,Internal,Remote Code Execution,0.23800994355604338,Low
+7.2,0,0,230,Internal,Misconfigured Server,0.4061724588783868,Medium
+6.6,1,1,224,External,Insecure Direct Object Reference,0.7931001929461483,High
+4.6,0,0,413,External,Open Port / Unnecessary Service,0.41540672447531346,Medium
+1.1,1,1,428,External,Sensitive Data Exposure,0.43169502975935586,Medium
+6.6,1,1,836,External,Cross-Site Scripting (XSS),0.7353321183054254,High
+1.2,1,0,650,Internal,Cross-Site Scripting (XSS),0.48056061471297973,Medium
+5.0,0,0,180,External,Misconfigured Server,0.4975819595302434,Medium
+7.9,1,1,776,Internal,Cross-Site Scripting (XSS),0.6857133190758781,High
+9.2,0,1,843,External,Remote Code Execution,0.5574686216847335,Medium
+4.7,1,1,635,Internal,Broken Access Control,0.5440166074735784,Medium
+2.3,1,0,708,Internal,Open Port / Unnecessary Service,0.5212847741622745,Medium
+9.0,1,1,281,Internal,Broken Access Control,0.5908828833549294,Medium
+5.4,0,1,502,External,Sensitive Data Exposure,0.49788469928425244,Medium
+8.9,1,0,526,External,Remote Code Execution,1.0,High
+4.8,1,0,54,Internal,Outdated Software / Missing Patch,0.5305711321426647,Medium
+1.7,0,1,489,External,Open Port / Unnecessary Service,0.25644930749750183,Low
+4.9,0,0,225,Internal,Sensitive Data Exposure,0.40287112915537726,Medium
+7.4,1,1,258,Internal,Sensitive Data Exposure,0.5232713218619731,Medium
+8.9,1,1,5,External,Open Port / Unnecessary Service,0.7012847618242904,High
+9.9,0,1,354,External,Broken Access Control,0.5503194605566705,Medium
+9.3,0,1,484,Internal,Cross-Site Scripting (XSS),0.4170355495710856,Medium
+8.6,0,1,509,External,Outdated Software / Missing Patch,0.5363556671785333,Medium
+8.3,1,0,665,External,Insecure Direct Object Reference,0.9408118031365743,High
+6.5,0,1,448,External,Misconfigured Server,0.4808157074870419,Medium
+5.5,0,1,625,Internal,Broken Access Control,0.2199183589887691,Low
+8.2,1,0,78,Internal,Insecure Direct Object Reference,0.7517023318377759,High
+7.7,0,1,154,External,Outdated Software / Missing Patch,0.5987596226396158,Medium
+9.5,0,1,212,External,Remote Code Execution,0.6491304917312919,Medium
+2.5,1,0,849,External,Weak Authentication,0.7092220390508438,High
+7.2,0,1,657,External,Sensitive Data Exposure,0.5115088964260684,Medium
+5.2,1,0,317,External,Cross-Site Scripting (XSS),0.8007926808433387,High
+9.7,0,0,744,External,Cross-Site Scripting (XSS),0.6795266923348545,High
+3.0,0,1,364,External,SQL Injection,0.3427729540723749,Low
+5.6,1,1,601,Internal,Misconfigured Server,0.5310264679148315,Medium
+7.7,1,0,144,External,Weak Authentication,0.9110452848939725,High
+1.0,0,1,31,Internal,Weak Authentication,0.07002274978511557,Low
+5.1,0,1,231,External,Broken Access Control,0.3378393440477157,Low
+1.8,1,0,192,Internal,Broken Access Control,0.4480663143403422,Medium
+8.0,0,0,693,Internal,Misconfigured Server,0.5594110734905894,Medium
+3.0,1,1,98,External,SQL Injection,0.48398275019110454,Medium
+8.2,1,1,473,External,Open Port / Unnecessary Service,0.7673207838685444,High
+6.9,1,0,529,Internal,Weak Authentication,0.6514552384695018,High
+9.5,0,1,50,External,Sensitive Data Exposure,0.5054954807554898,Medium
+2.5,1,1,139,External,SQL Injection,0.5682856359857069,Medium
+4.2,1,1,92,Internal,Outdated Software / Missing Patch,0.5096609762604125,Medium
+2.1,0,1,199,Internal,Weak Authentication,0.14555771590840688,Low
+7.2,1,1,520,Internal,Remote Code Execution,0.6150174046607527,Medium
+8.5,0,1,202,External,Remote Code Execution,0.5411206530064994,Medium
+6.2,1,1,481,External,Open Port / Unnecessary Service,0.7176912372484551,High
+10.0,0,0,406,Internal,Insecure Direct Object Reference,0.5359777597010017,Medium
+3.2,0,1,717,Internal,Cross-Site Scripting (XSS),0.22852561335591695,Low
+1.4,1,1,377,Internal,SQL Injection,0.3862190606463637,Medium
+6.0,0,1,230,External,Misconfigured Server,0.47940495447797316,Medium
+3.6,1,0,790,External,Remote Code Execution,0.6793414780029492,High
+7.7,0,0,747,External,Sensitive Data Exposure,0.6419202170973402,Medium
+3.0,0,1,182,External,Sensitive Data Exposure,0.28682207016214345,Low
+6.8,1,0,471,Internal,Weak Authentication,0.7715954060650335,High
+8.1,0,1,683,Internal,Outdated Software / Missing Patch,0.4114292545405725,Medium
+6.3,0,0,68,Internal,Broken Access Control,0.293174233081258,Low
+4.4,0,1,371,External,Weak Authentication,0.38853639365266485,Medium
+9.5,1,1,180,External,Broken Access Control,0.9316133124535493,High
+4.7,0,0,471,External,Cross-Site Scripting (XSS),0.521925452477795,Medium
+2.1,0,1,270,Internal,Remote Code Execution,0.15347398550231056,Low
+6.6,0,0,390,Internal,Outdated Software / Missing Patch,0.42046973000911186,Medium
+3.0,0,1,298,Internal,Insecure Direct Object Reference,0.05298608124629639,Low
+2.5,0,1,278,External,Weak Authentication,0.18743155674179762,Low
+3.0,0,1,358,Internal,Cross-Site Scripting (XSS),0.09259150015209469,Low
+2.3,1,1,581,External,Open Port / Unnecessary Service,0.5294361759257913,Medium
+1.8,1,0,781,External,Open Port / Unnecessary Service,0.6398888137134545,Medium
+4.5,1,0,385,Internal,Remote Code Execution,0.608359596495865,Medium
+6.8,1,0,367,External,Remote Code Execution,0.8093659867506527,High
+7.3,0,1,138,External,Open Port / Unnecessary Service,0.5340131295872211,Medium
+2.4,0,1,789,External,SQL Injection,0.28784589541435224,Low
+10.0,0,0,109,Internal,Open Port / Unnecessary Service,0.5208310797882036,Medium
+6.3,1,1,427,External,Weak Authentication,0.7498043079944673,High
+6.3,0,1,646,External,Sensitive Data Exposure,0.4236666397336802,Medium
+5.2,0,0,822,Internal,Outdated Software / Missing Patch,0.24321242012561176,Low
+9.9,0,1,891,Internal,Cross-Site Scripting (XSS),0.44200216205260506,Medium
+4.8,0,1,19,External,Remote Code Execution,0.3717635328307004,Medium
+2.4,1,0,422,External,Remote Code Execution,0.47743555649196157,Medium
+4.0,0,0,293,External,Outdated Software / Missing Patch,0.428420875468849,Medium
+8.2,1,0,669,Internal,Insecure Direct Object Reference,0.7395621487285161,High
+5.9,0,0,143,Internal,Insecure Direct Object Reference,0.3021216459959805,Low
+5.2,1,0,235,External,Remote Code Execution,0.6729303823256652,High
+8.4,1,1,196,External,Broken Access Control,0.7657657914839252,High
+6.5,0,0,646,Internal,Open Port / Unnecessary Service,0.4010338804071483,Medium
+3.2,0,1,838,External,Cross-Site Scripting (XSS),0.4035514810251375,Medium
+8.1,1,0,822,External,Insecure Direct Object Reference,0.9289098189233067,High
+5.3,1,0,769,Internal,Remote Code Execution,0.5521794499469432,Medium
+8.5,1,0,253,Internal,Broken Access Control,0.7038229820637185,High
+8.0,1,0,299,External,SQL Injection,0.9118681874672129,High
+3.6,1,1,404,Internal,Open Port / Unnecessary Service,0.5292432828923397,Medium
+7.4,1,0,524,Internal,Weak Authentication,0.7314360857983223,High
+4.5,1,1,102,Internal,Insecure Direct Object Reference,0.4737022938996409,Medium
+2.3,0,1,5,Internal,Open Port / Unnecessary Service,0.19681540098637812,Low
+8.1,0,0,345,External,Outdated Software / Missing Patch,0.6325330944657158,Medium
+7.4,1,0,272,External,Cross-Site Scripting (XSS),0.8326560631943744,High
+4.4,1,1,401,External,Misconfigured Server,0.5496153386631945,Medium
+9.8,0,1,612,Internal,Remote Code Execution,0.44934919588861477,Medium
+9.0,0,1,23,External,Broken Access Control,0.6652134149076856,High
+5.5,1,0,759,Internal,Outdated Software / Missing Patch,0.5685795970422308,Medium
+6.4,0,0,148,Internal,Sensitive Data Exposure,0.3967818075628847,Medium
+5.0,0,0,129,External,Broken Access Control,0.4117502952690508,Medium
+1.1,1,1,485,External,Broken Access Control,0.4828682318470323,Medium
+9.2,0,1,79,Internal,Open Port / Unnecessary Service,0.4627712490614949,Medium
+3.0,0,1,272,External,Broken Access Control,0.28792864512045174,Low
+3.8,0,1,671,External,Insecure Direct Object Reference,0.39479514129275267,Medium
+8.9,1,1,351,External,Remote Code Execution,0.856042191275442,High
+1.4,0,1,557,Internal,Outdated Software / Missing Patch,0.11629568524979014,Low
+9.6,0,1,635,External,Broken Access Control,0.7030901777485754,High
+7.1,0,1,395,External,Cross-Site Scripting (XSS),0.5303863221443472,Medium
+3.7,0,1,536,External,Open Port / Unnecessary Service,0.331029799471062,Low
+6.7,0,1,730,Internal,Outdated Software / Missing Patch,0.3080143781309499,Low
+2.5,0,0,711,Internal,Misconfigured Server,0.20973468262478254,Low
+2.7,0,0,562,External,Open Port / Unnecessary Service,0.4265155941039729,Medium
+4.8,1,0,623,External,SQL Injection,0.7344250203986027,High
+7.8,1,0,65,Internal,Broken Access Control,0.8410694630613259,High
+3.7,0,1,64,External,SQL Injection,0.4121779358364634,Medium
+6.8,1,1,133,Internal,Sensitive Data Exposure,0.5526626889135727,Medium
+1.0,1,1,726,Internal,Cross-Site Scripting (XSS),0.3188767706251838,Low
+4.0,0,0,704,Internal,Remote Code Execution,0.40361993877693225,Medium
+9.8,1,0,50,External,Broken Access Control,0.8496097887125285,High
+7.2,0,0,487,External,SQL Injection,0.5784780025903,Medium
+9.9,1,1,503,External,Remote Code Execution,0.9209822919942131,High
+1.4,1,1,628,External,SQL Injection,0.4522840103429407,Medium
+9.4,0,1,743,Internal,Cross-Site Scripting (XSS),0.44043627912310357,Medium
+1.7,1,1,130,Internal,Cross-Site Scripting (XSS),0.3161651639174879,Low
+2.8,0,1,438,External,Open Port / Unnecessary Service,0.33337375815866155,Low
+4.5,1,0,509,External,Cross-Site Scripting (XSS),0.7376541220189342,High
+7.9,1,1,667,External,Open Port / Unnecessary Service,0.8126599260699623,High
+4.8,0,0,191,Internal,Cross-Site Scripting (XSS),0.3563752973702781,Medium
+4.2,1,1,877,Internal,Insecure Direct Object Reference,0.48921913363107894,Medium
+7.7,0,0,736,Internal,Outdated Software / Missing Patch,0.5429171988013224,Medium
+3.5,1,1,260,Internal,Open Port / Unnecessary Service,0.38549650088916265,Medium
+8.3,1,0,266,External,Open Port / Unnecessary Service,0.816471702996446,High
+5.0,0,1,330,Internal,SQL Injection,0.15448974309271113,Low
+2.2,1,0,219,Internal,Weak Authentication,0.38011617771854384,Medium
+9.1,1,1,708,Internal,Outdated Software / Missing Patch,0.6713075468559546,High
+6.0,0,1,551,External,Sensitive Data Exposure,0.5021134557739271,Medium
+9.7,1,0,853,Internal,Misconfigured Server,0.8425972267574877,High
+8.2,0,0,247,Internal,Insecure Direct Object Reference,0.45279489174545406,Medium
+1.7,1,0,13,Internal,Misconfigured Server,0.3737294425714391,Medium
+3.1,0,1,310,Internal,Remote Code Execution,0.13027793965569304,Low
+9.6,1,1,621,External,Broken Access Control,0.8463166807301781,High
+8.4,0,1,128,Internal,Weak Authentication,0.3568561415661521,Medium
+7.0,0,0,93,Internal,SQL Injection,0.34853945062952985,Low
+6.7,1,1,35,External,SQL Injection,0.6796540533883311,High
+4.2,1,1,491,External,Misconfigured Server,0.6671345844467317,High
+9.7,1,1,775,Internal,Misconfigured Server,0.6208251084757819,Medium
+9.5,0,0,783,External,Remote Code Execution,0.7089695663777812,High
+1.4,0,0,424,Internal,Insecure Direct Object Reference,0.08048813781392929,Low
+9.4,1,1,707,Internal,Open Port / Unnecessary Service,0.7214301583066729,High
+1.6,1,0,88,Internal,SQL Injection,0.3895144193434737,Medium
+1.1,0,1,128,External,Sensitive Data Exposure,0.10232672770647783,Low
+8.6,0,1,798,Internal,Insecure Direct Object Reference,0.4363684428300046,Medium
+9.5,0,0,72,Internal,Outdated Software / Missing Patch,0.6223702676776195,Medium
+4.2,0,1,726,External,Outdated Software / Missing Patch,0.38477791000094147,Medium
+4.1,1,0,173,External,Cross-Site Scripting (XSS),0.7522006853002285,High
+7.0,1,1,794,Internal,Broken Access Control,0.6055358910026656,Medium
+1.3,0,0,22,External,Weak Authentication,0.20184268081411744,Low
+4.2,1,1,508,External,Open Port / Unnecessary Service,0.6417463967534228,Medium
+3.9,0,1,777,Internal,Insecure Direct Object Reference,0.19775270132605602,Low
+4.0,1,1,358,External,Cross-Site Scripting (XSS),0.5267846425052449,Medium
+9.0,0,1,11,External,Cross-Site Scripting (XSS),0.594852944807267,Medium
+4.8,0,1,474,External,Misconfigured Server,0.40667621160602463,Medium
+3.6,1,1,598,Internal,Insecure Direct Object Reference,0.4189517401863135,Medium
+7.2,0,1,470,Internal,Misconfigured Server,0.39351458238121595,Medium
+2.2,1,1,584,External,SQL Injection,0.4878408460547927,Medium
+9.3,0,0,69,External,Open Port / Unnecessary Service,0.7045049502703382,High
+1.6,1,1,448,External,Remote Code Execution,0.44986586542672385,Medium
+8.3,0,0,788,Internal,Insecure Direct Object Reference,0.5439755158630818,Medium
+6.9,0,1,485,Internal,SQL Injection,0.2824070472169784,Low
+3.1,1,1,644,External,SQL Injection,0.6497371879288334,Medium
+8.7,0,1,99,Internal,Misconfigured Server,0.4097153750007952,Medium
+5.8,0,1,623,External,Remote Code Execution,0.5172548669107667,Medium
+6.1,1,1,403,Internal,Outdated Software / Missing Patch,0.5057665900128964,Medium
+6.1,0,0,397,External,SQL Injection,0.5227504369071792,Medium
+3.4,0,0,793,External,Weak Authentication,0.48903879548129564,Medium
+4.0,1,1,237,External,Weak Authentication,0.4559808092512005,Medium
+7.2,1,0,28,External,SQL Injection,0.772216012823193,High
+8.0,1,1,28,External,SQL Injection,0.8132144031696393,High
+5.1,1,0,348,External,Outdated Software / Missing Patch,0.7720887995280521,High
+8.1,1,0,435,External,Weak Authentication,0.937605133787557,High
+5.0,0,1,421,External,Misconfigured Server,0.3829008445346527,Medium
+4.9,1,1,156,External,Remote Code Execution,0.6573666357468229,High
+5.0,1,1,813,External,Insecure Direct Object Reference,0.6336244531558255,Medium
+7.7,1,1,712,External,Outdated Software / Missing Patch,0.7174575371744358,High
+6.3,0,1,476,Internal,Open Port / Unnecessary Service,0.22520469575861346,Low
+8.3,1,1,306,External,Weak Authentication,0.7629145214484788,High
+4.7,1,0,550,External,Open Port / Unnecessary Service,0.7146084844343306,High
+6.1,0,1,550,Internal,Open Port / Unnecessary Service,0.27358668567572,Low
+9.6,1,1,220,External,Remote Code Execution,0.6667819736723253,High
+7.8,1,0,64,External,Insecure Direct Object Reference,0.7546253755537284,High
+5.7,1,0,536,External,Weak Authentication,0.7596461533181051,High
+4.9,0,0,341,External,Sensitive Data Exposure,0.503795275824322,Medium
+1.4,0,1,4,External,Cross-Site Scripting (XSS),0.18428259096986993,Low
+8.2,0,1,731,Internal,Cross-Site Scripting (XSS),0.3657662510935759,Medium
+9.0,0,1,402,Internal,Outdated Software / Missing Patch,0.3119096666757515,Low
+5.2,0,1,146,External,Cross-Site Scripting (XSS),0.4931860630599076,Medium
+8.8,1,0,133,Internal,Insecure Direct Object Reference,0.6983333249155427,High
+8.2,0,1,460,External,Open Port / Unnecessary Service,0.6287253874405103,Medium
+7.4,0,1,799,External,Cross-Site Scripting (XSS),0.6054231847385663,Medium
+8.3,1,1,509,Internal,Sensitive Data Exposure,0.6654742310728244,High
+7.9,0,0,800,Internal,Misconfigured Server,0.47131397419131055,Medium
+4.5,1,0,655,Internal,Broken Access Control,0.5954996654480021,Medium
+7.9,1,1,531,External,Broken Access Control,0.7273479012980323,High
+8.2,0,1,671,Internal,Broken Access Control,0.41931428411267735,Medium
+8.2,0,1,423,Internal,SQL Injection,0.3926476073924795,Medium
+10.0,1,1,280,External,Remote Code Execution,0.8921539689529686,High
+3.6,0,1,888,External,Outdated Software / Missing Patch,0.40885517576552244,Medium
+1.0,0,0,551,Internal,Cross-Site Scripting (XSS),0.2622530354817534,Low
+6.9,0,1,14,External,Sensitive Data Exposure,0.4418619860519451,Medium
+7.3,0,0,757,External,Weak Authentication,0.6727249764435197,High
+6.6,0,1,133,External,Sensitive Data Exposure,0.4148054098574438,Medium
+6.0,1,1,823,Internal,Open Port / Unnecessary Service,0.5209939748461592,Medium
+2.0,1,1,696,External,Misconfigured Server,0.4977638449006978,Medium
+1.6,1,0,237,External,Sensitive Data Exposure,0.5360683838771836,Medium
+3.5,0,1,592,Internal,Cross-Site Scripting (XSS),0.2394021048056218,Low
+7.8,0,1,245,External,Outdated Software / Missing Patch,0.5607731680341974,Medium
+3.7,0,0,486,Internal,Outdated Software / Missing Patch,0.3571155873519696,Medium
+1.7,0,1,607,Internal,Sensitive Data Exposure,0.10895720575901621,Low
+2.9,1,1,222,Internal,Open Port / Unnecessary Service,0.40655241313769724,Medium
+4.8,0,0,872,External,Weak Authentication,0.485523094514441,Medium
+4.2,1,0,34,External,Weak Authentication,0.6333408264964016,Medium
+8.9,0,1,268,Internal,Outdated Software / Missing Patch,0.4377397964154668,Medium
+7.6,0,1,655,Internal,Misconfigured Server,0.39180754445471566,Medium
+1.9,0,1,545,Internal,Open Port / Unnecessary Service,0.06042711452489165,Low
+1.4,1,0,709,External,Insecure Direct Object Reference,0.6316555122212192,Medium
+4.8,0,0,435,External,SQL Injection,0.40308029953668023,Medium
+9.0,0,1,888,Internal,Open Port / Unnecessary Service,0.44538340912710667,Medium
+2.4,0,1,734,External,Misconfigured Server,0.2672620859220019,Low
+8.8,1,1,520,External,Broken Access Control,0.7984250780777493,High
+8.5,1,1,729,External,Remote Code Execution,0.76882711223874,High
+6.7,0,1,134,External,Misconfigured Server,0.5065691490175392,Medium
+8.2,1,0,507,External,Broken Access Control,0.9254640772691228,High
+9.4,1,1,594,Internal,Insecure Direct Object Reference,0.7651710133405588,High
+9.8,0,1,863,External,Broken Access Control,0.6454693118767034,Medium
+2.9,0,1,724,Internal,Insecure Direct Object Reference,0.10581953951242844,Low
+7.5,0,1,686,Internal,Weak Authentication,0.3566610352138704,Medium
+1.8,0,1,143,External,Broken Access Control,0.17936855417576716,Low
+4.1,0,0,12,Internal,Remote Code Execution,0.30750642491566316,Low
+9.9,0,0,282,Internal,Outdated Software / Missing Patch,0.6211019631190794,Medium
+8.1,0,0,200,External,Open Port / Unnecessary Service,0.6414156306900906,Medium
+9.5,1,1,595,External,Sensitive Data Exposure,0.8299295098625731,High
+5.4,1,0,728,External,Broken Access Control,0.7642780883202733,High
+1.8,1,1,377,External,Outdated Software / Missing Patch,0.5114669445777766,Medium
+9.4,1,0,833,External,Weak Authentication,0.8962599081002538,High
+3.0,0,0,743,External,Cross-Site Scripting (XSS),0.4330078849407556,Medium
+6.9,1,1,580,Internal,Misconfigured Server,0.6018971160984409,Medium
+1.1,0,0,456,Internal,Cross-Site Scripting (XSS),0.14682118955072399,Low
+2.4,1,1,555,External,Remote Code Execution,0.5171315699810645,Medium
+6.1,0,1,200,External,SQL Injection,0.4433033432653595,Medium
+4.5,0,0,131,External,Open Port / Unnecessary Service,0.41786333541496834,Medium
+7.9,1,1,502,External,SQL Injection,0.7413657491890576,High
+5.9,0,0,723,External,Remote Code Execution,0.5936652098870661,Medium
+5.3,1,1,509,Internal,Misconfigured Server,0.5269463137546886,Medium
+5.0,1,0,684,Internal,Broken Access Control,0.6959331800407592,High
+7.1,1,1,64,External,Open Port / Unnecessary Service,0.6726566556091309,High
+5.6,1,1,464,Internal,Outdated Software / Missing Patch,0.4377294853450024,Medium
+4.8,0,1,761,External,Weak Authentication,0.4542167219861717,Medium
+3.0,1,1,605,Internal,Broken Access Control,0.4653183320506755,Medium
+5.2,0,1,8,External,Weak Authentication,0.3463352781410332,Low
+3.9,1,0,149,External,Open Port / Unnecessary Service,0.6091349271329519,Medium
+4.3,0,0,735,External,Cross-Site Scripting (XSS),0.4807238037734453,Medium
+4.7,0,1,130,External,SQL Injection,0.27982695276173486,Low
+7.5,1,1,791,External,Misconfigured Server,0.7629962121115069,High
+1.4,1,1,747,Internal,Remote Code Execution,0.24395438999941088,Low
+2.3,1,1,641,External,Insecure Direct Object Reference,0.525713822932693,Medium
+6.6,0,1,784,Internal,Cross-Site Scripting (XSS),0.23298804204575663,Low
+2.3,1,1,212,Internal,Insecure Direct Object Reference,0.35183579770591333,Medium
+7.0,1,1,475,External,Insecure Direct Object Reference,0.8156144519144228,High
+5.6,0,1,255,Internal,Weak Authentication,0.2511319053783771,Low
+3.7,0,1,349,External,Open Port / Unnecessary Service,0.372650817982136,Medium
+3.0,1,0,245,Internal,Remote Code Execution,0.464757273873188,Medium
+6.0,0,1,90,External,Cross-Site Scripting (XSS),0.3785758480446791,Medium
+5.8,1,1,633,External,SQL Injection,0.6194127479650651,Medium
+3.4,0,1,364,Internal,Misconfigured Server,0.22333764536490108,Low
+1.7,0,0,292,Internal,Open Port / Unnecessary Service,0.18787323569317071,Low
+8.9,0,0,780,Internal,Sensitive Data Exposure,0.6229492467222788,Medium
+4.8,1,1,676,Internal,Broken Access Control,0.44256463004546504,Medium
+6.3,1,1,601,Internal,Cross-Site Scripting (XSS),0.5536342688437644,Medium
+3.8,0,1,891,Internal,Outdated Software / Missing Patch,0.2223093394027325,Low
+1.8,0,0,170,Internal,Misconfigured Server,0.2588530293745136,Low
+9.6,0,1,645,Internal,Cross-Site Scripting (XSS),0.5566800658963544,Medium
+2.8,0,0,618,External,Misconfigured Server,0.3756036654558375,Medium
+1.8,0,1,189,Internal,Outdated Software / Missing Patch,0.032485804407520594,Low
+1.6,0,1,57,External,Remote Code Execution,0.13597439275689582,Low
+9.8,0,0,756,Internal,Weak Authentication,0.6474361584362257,Medium
+1.1,0,1,646,Internal,Weak Authentication,0.07858917734454832,Low
+7.4,0,1,372,External,Outdated Software / Missing Patch,0.46879282096648134,Medium
+2.7,0,0,368,External,Cross-Site Scripting (XSS),0.38687244411266003,Medium
+3.4,0,1,495,External,SQL Injection,0.20005457636953985,Low
+5.9,0,1,867,External,SQL Injection,0.37483501538245767,Medium
+3.0,0,0,382,External,Remote Code Execution,0.4504123365658578,Medium
+9.5,1,1,542,External,Misconfigured Server,0.8748127388037091,High
+5.6,0,1,190,Internal,Insecure Direct Object Reference,0.26745953021017177,Low
+4.5,0,1,479,External,Weak Authentication,0.32642676558989436,Low
+5.0,1,0,605,External,Remote Code Execution,0.7853783635547177,High
+3.3,0,0,302,External,Weak Authentication,0.5015730440544773,Medium
+9.5,1,1,442,External,Misconfigured Server,0.788192143757099,High
+8.6,0,1,107,External,Weak Authentication,0.5410362880135591,Medium
+9.7,1,0,404,Internal,Insecure Direct Object Reference,0.7845352580262622,High
+8.1,0,1,735,Internal,Remote Code Execution,0.4207139250728083,Medium
+4.5,1,1,899,Internal,Cross-Site Scripting (XSS),0.5004731837697027,Medium
+4.7,1,1,53,External,Cross-Site Scripting (XSS),0.604413446686877,Medium
+4.3,0,1,96,External,Weak Authentication,0.3020425659954673,Low
+9.3,0,1,138,Internal,SQL Injection,0.42268740395731114,Medium
+1.9,1,1,393,Internal,Cross-Site Scripting (XSS),0.32391877536060887,Low
+3.9,1,1,301,External,Open Port / Unnecessary Service,0.5822023932671506,Medium
+3.7,1,1,424,External,Weak Authentication,0.5841798666884441,Medium
+1.9,1,1,531,External,Remote Code Execution,0.5450147759825714,Medium
+3.9,1,1,549,External,Insecure Direct Object Reference,0.5741841334220388,Medium
+3.4,1,1,866,External,Weak Authentication,0.5822401009392426,Medium
+9.6,1,1,364,External,Weak Authentication,0.9031205673107774,High
+2.4,0,1,504,External,Broken Access Control,0.2723836402190155,Low
+7.6,1,1,128,External,Insecure Direct Object Reference,0.7333129000860025,High
+1.2,0,1,683,External,Broken Access Control,0.2824579518148275,Low
+4.5,0,0,48,External,Weak Authentication,0.4660929759120806,Medium
+3.3,0,1,707,External,Misconfigured Server,0.3396399089718246,Low
+3.2,0,1,425,External,Misconfigured Server,0.3259208853694861,Low
+1.1,1,0,611,Internal,Misconfigured Server,0.3687934291508069,Medium
+5.7,0,1,285,External,Weak Authentication,0.4427435157828632,Medium
+3.2,0,1,359,External,Insecure Direct Object Reference,0.3776343428046247,Medium
+9.7,1,1,228,External,Outdated Software / Missing Patch,0.8756624888870809,High
+6.0,1,1,840,External,Open Port / Unnecessary Service,0.6363578136254013,Medium
+7.5,0,1,313,External,Misconfigured Server,0.5166519037719056,Medium
+8.3,0,0,150,External,SQL Injection,0.5841970874120528,Medium
+1.7,1,1,546,Internal,Sensitive Data Exposure,0.34316635206521967,Low
+5.7,0,1,605,Internal,Cross-Site Scripting (XSS),0.2943065971156631,Low
+2.8,1,0,84,External,Open Port / Unnecessary Service,0.568815140530688,Medium
+7.8,0,0,484,Internal,Misconfigured Server,0.5424941608972893,Medium
+7.3,0,1,235,External,Cross-Site Scripting (XSS),0.4859724726237062,Medium
+2.7,1,0,173,External,Remote Code Execution,0.6686314306081396,High
+2.6,0,0,449,Internal,Cross-Site Scripting (XSS),0.2716184373764867,Low
+8.9,1,0,867,Internal,Insecure Direct Object Reference,0.8638345002321256,High
+9.8,0,1,358,Internal,Broken Access Control,0.5184773076028948,Medium
+2.5,0,1,415,External,Insecure Direct Object Reference,0.2098975460413129,Low
+8.0,1,1,415,External,Insecure Direct Object Reference,0.7832961007037806,High
+3.4,1,0,878,External,Cross-Site Scripting (XSS),0.5931575019456568,Medium
+4.1,0,0,412,External,Insecure Direct Object Reference,0.4332000398064785,Medium
+1.6,0,1,452,Internal,Remote Code Execution,0.1310322454158024,Low
+9.6,1,0,460,External,Sensitive Data Exposure,1.0,High
+5.6,0,1,500,External,Broken Access Control,0.4924690756885005,Medium
+10.0,0,1,631,Internal,Sensitive Data Exposure,0.464466673073071,Medium
+1.4,0,1,807,External,Outdated Software / Missing Patch,0.27213153738922674,Low
+1.1,0,1,703,External,Cross-Site Scripting (XSS),0.24173923709715336,Low
+2.4,1,0,521,External,Remote Code Execution,0.6986287850332421,High
+1.8,0,0,686,External,Insecure Direct Object Reference,0.44687611064546917,Medium
+4.6,0,1,897,External,Insecure Direct Object Reference,0.38725666839935485,Medium
+5.2,1,1,286,Internal,Weak Authentication,0.6874706372522068,High
+2.1,1,0,695,External,Remote Code Execution,0.6313090744021419,Medium
+5.7,1,0,705,Internal,Sensitive Data Exposure,0.6257222450019511,Medium
+6.6,1,1,19,Internal,Sensitive Data Exposure,0.5764475573929164,Medium
+8.4,1,1,612,Internal,SQL Injection,0.698359619252892,High
+6.0,0,1,340,External,Sensitive Data Exposure,0.4646696016269967,Medium
+1.9,1,0,788,External,Misconfigured Server,0.5952939461022348,Medium
+1.6,0,0,716,External,Insecure Direct Object Reference,0.43396782635364806,Medium
+2.1,0,1,76,External,Outdated Software / Missing Patch,0.25001341541696287,Low
+9.5,1,1,655,External,Insecure Direct Object Reference,0.939412397222992,High
+2.6,0,1,527,External,SQL Injection,0.36460587085348417,Medium
+7.2,1,0,629,External,Misconfigured Server,0.7940016829777515,High
+3.2,0,1,802,External,Remote Code Execution,0.2883398992090134,Low
+2.1,0,1,395,External,Cross-Site Scripting (XSS),0.21523278755392336,Low
+3.6,0,1,76,External,Cross-Site Scripting (XSS),0.32757610025178935,Low
+2.5,1,0,653,Internal,Sensitive Data Exposure,0.5003834839028177,Medium
+5.7,0,0,196,External,Misconfigured Server,0.5297676508655884,Medium
+9.2,0,0,741,External,Broken Access Control,0.6635311261975251,High
+2.8,1,1,223,Internal,Open Port / Unnecessary Service,0.4087462571846592,Medium
+5.0,0,1,300,External,Cross-Site Scripting (XSS),0.46092189715507964,Medium
+8.2,1,0,537,External,Outdated Software / Missing Patch,0.8311535976010463,High
+6.4,1,1,334,Internal,Sensitive Data Exposure,0.5458657933731773,Medium
+4.3,0,1,204,Internal,Cross-Site Scripting (XSS),0.2163836210584963,Low
+8.0,0,0,261,External,SQL Injection,0.6171474710709822,Medium
+3.7,0,1,216,External,Outdated Software / Missing Patch,0.3177936277620553,Low
+4.4,0,0,129,Internal,Outdated Software / Missing Patch,0.39277986589393027,Medium
+3.8,1,1,90,External,Weak Authentication,0.6393533752392403,Medium
+6.1,1,0,279,Internal,Outdated Software / Missing Patch,0.6816697471663076,High
+1.4,0,1,608,Internal,Remote Code Execution,0.057917799608204805,Low
+5.1,0,1,256,Internal,Insecure Direct Object Reference,0.3550025582208149,Medium
+8.6,1,1,809,External,Open Port / Unnecessary Service,0.8492395775805638,High
+4.0,0,1,278,External,SQL Injection,0.3157956473024114,Low
+4.8,0,0,190,Internal,Remote Code Execution,0.3089366914821137,Low
+2.4,0,1,899,Internal,Remote Code Execution,0.13272801348655938,Low
+9.2,0,1,69,External,SQL Injection,0.6731601655313999,High
+6.9,0,0,582,External,Sensitive Data Exposure,0.6023926821171705,Medium
+5.1,1,1,641,External,Outdated Software / Missing Patch,0.6675770952582485,High
+3.5,1,0,688,External,Outdated Software / Missing Patch,0.5873916142563099,Medium
+5.7,1,1,671,Internal,Cross-Site Scripting (XSS),0.579968290391641,Medium
+4.2,0,1,197,External,Sensitive Data Exposure,0.2963696465901849,Low
+1.2,0,1,708,Internal,Misconfigured Server,0.036185501646013515,Low
+4.6,0,0,347,Internal,Broken Access Control,0.35625566267597825,Medium
+6.3,0,1,877,Internal,Cross-Site Scripting (XSS),0.28840179636289875,Low
+3.7,0,0,555,Internal,Broken Access Control,0.3384750808586294,Low
+1.8,0,1,834,External,Sensitive Data Exposure,0.3327779877307581,Low
+6.0,1,1,756,External,Outdated Software / Missing Patch,0.6218802539754562,Medium
+7.9,0,1,771,External,Misconfigured Server,0.5408778315899184,Medium
+1.8,1,1,632,Internal,Cross-Site Scripting (XSS),0.2867702126655532,Low
+1.4,0,1,615,Internal,Misconfigured Server,0.09341996752592882,Low
+3.5,1,0,114,Internal,Broken Access Control,0.5587932322586445,Medium
+1.6,1,0,426,Internal,Open Port / Unnecessary Service,0.3768252983714055,Medium
+7.7,1,1,357,External,SQL Injection,0.8557913238702789,High
+9.9,0,0,788,Internal,Sensitive Data Exposure,0.5730457208338097,Medium
+6.9,1,0,570,External,Insecure Direct Object Reference,0.7822882766646845,High
+3.7,1,0,633,External,Weak Authentication,0.6947007990676239,High
+2.7,1,0,750,Internal,Misconfigured Server,0.5520054030529118,Medium
+7.1,1,1,670,External,Remote Code Execution,0.6870755574208242,High
+7.9,0,1,66,External,Open Port / Unnecessary Service,0.508453368609252,Medium
+3.1,0,1,31,Internal,Outdated Software / Missing Patch,0.07173159740858327,Low
+9.8,0,0,824,Internal,Weak Authentication,0.6461550863540029,Medium
+6.6,1,1,330,External,Open Port / Unnecessary Service,0.7222269779749655,High
+3.9,1,0,646,External,Cross-Site Scripting (XSS),0.689254646173219,High
+8.8,0,1,649,Internal,Misconfigured Server,0.48292987927460934,Medium
+3.6,0,1,501,External,Misconfigured Server,0.27450277035344184,Low
+2.9,1,1,829,Internal,Sensitive Data Exposure,0.4059712158752682,Medium
+6.6,1,0,429,Internal,Cross-Site Scripting (XSS),0.7622092616837386,High
+3.5,0,0,480,External,Outdated Software / Missing Patch,0.4270133476434632,Medium
+1.5,0,1,155,Internal,Cross-Site Scripting (XSS),0.14298915765398182,Low
+2.8,0,1,391,Internal,SQL Injection,0.15650901973829556,Low
+10.0,1,0,675,External,Weak Authentication,0.9515187519157633,High
+8.6,1,0,613,External,Cross-Site Scripting (XSS),0.9077444869998517,High
+8.8,1,0,894,Internal,Insecure Direct Object Reference,0.7985133687449864,High
+7.2,1,1,147,External,SQL Injection,0.7106659808845216,High
+4.7,1,0,353,Internal,Sensitive Data Exposure,0.5388760246230991,Medium
+2.4,0,0,771,External,Outdated Software / Missing Patch,0.3607137494284758,Medium
+2.3,0,0,633,External,SQL Injection,0.3134432698284819,Low
+9.5,0,1,306,External,Broken Access Control,0.5989551634969427,Medium
+4.1,0,1,379,External,Sensitive Data Exposure,0.3741595978007976,Medium
+5.2,0,1,715,Internal,Sensitive Data Exposure,0.3100872173246585,Low
+7.0,0,1,214,External,Insecure Direct Object Reference,0.3855095766023422,Medium
+9.8,0,0,790,Internal,Weak Authentication,0.6240822749653598,Medium
+3.7,0,1,395,Internal,Cross-Site Scripting (XSS),0.18648914080651918,Low
+8.1,0,1,392,External,Remote Code Execution,0.4637469801844155,Medium
+2.7,0,1,53,Internal,Insecure Direct Object Reference,0.12823620006684974,Low
+5.0,0,0,869,Internal,Open Port / Unnecessary Service,0.4129075183359318,Medium
+4.0,1,0,54,External,Open Port / Unnecessary Service,0.7080210365591253,High
+3.8,1,0,574,External,Outdated Software / Missing Patch,0.7380552507705063,High
+7.7,1,0,313,External,Cross-Site Scripting (XSS),0.9100556106442163,High
+2.9,0,1,329,Internal,Outdated Software / Missing Patch,0.19247564052077523,Low
+1.3,0,1,356,Internal,Sensitive Data Exposure,0.07540527533532375,Low
+2.8,0,1,175,External,Misconfigured Server,0.18051069179749485,Low
+5.9,0,1,365,External,SQL Injection,0.39671619915662054,Medium
+5.5,0,1,746,External,Insecure Direct Object Reference,0.4556742513635409,Medium
+3.5,1,1,664,External,Outdated Software / Missing Patch,0.5698452478201662,Medium
+6.8,0,0,16,Internal,Misconfigured Server,0.4401079993043359,Medium
+1.7,0,0,678,External,Outdated Software / Missing Patch,0.4030075719158378,Medium
+3.8,1,1,198,External,Insecure Direct Object Reference,0.583367780566458,Medium
+8.8,0,1,315,External,Cross-Site Scripting (XSS),0.6564593551184057,High
+5.4,0,0,838,Internal,Remote Code Execution,0.3397789084779818,Low
+2.6,0,1,611,External,Sensitive Data Exposure,0.34649736107413576,Low
+4.9,0,0,285,External,Misconfigured Server,0.4617040331606701,Medium
+7.6,0,1,412,External,Misconfigured Server,0.474865573183333,Medium
+5.7,1,1,349,External,Remote Code Execution,0.7043296523851398,High
+1.1,0,1,899,External,Insecure Direct Object Reference,0.21766375597684604,Low
+7.4,0,1,338,External,Broken Access Control,0.5437422268635835,Medium
+4.6,0,1,757,External,Broken Access Control,0.3397408711946444,Low
+6.3,0,1,547,Internal,Broken Access Control,0.31466808559168385,Low
+8.4,0,0,736,Internal,Cross-Site Scripting (XSS),0.47574239277371333,Medium
+8.9,0,0,622,Internal,Misconfigured Server,0.5223316525747449,Medium
+3.7,0,1,385,External,Cross-Site Scripting (XSS),0.31831832180638864,Low
+2.8,1,1,288,Internal,Cross-Site Scripting (XSS),0.3346015309448325,Low
+9.5,0,1,552,Internal,SQL Injection,0.4899806499817565,Medium
+5.5,1,0,842,External,Broken Access Control,0.7310656007177375,High
+2.0,0,0,185,External,Misconfigured Server,0.3003232994299815,Low
+4.9,0,1,219,External,Insecure Direct Object Reference,0.4263042250997795,Medium
+6.0,0,1,290,Internal,Weak Authentication,0.3338481286615011,Low
+2.3,1,1,320,External,Weak Authentication,0.5537500415448167,Medium
+8.6,0,1,758,External,Weak Authentication,0.5952131406598941,Medium
+3.0,0,1,471,External,Outdated Software / Missing Patch,0.42418029334702967,Medium
+5.3,0,1,560,External,Sensitive Data Exposure,0.35824084048802035,Medium
+5.5,0,0,795,External,Sensitive Data Exposure,0.5036172575996734,Medium
+6.1,1,0,225,Internal,Open Port / Unnecessary Service,0.5864361272986782,Medium
+2.1,0,1,819,Internal,Remote Code Execution,0.1840729416224388,Low
+8.3,1,1,528,External,Remote Code Execution,0.8163838306795438,High
+4.5,0,0,515,External,Sensitive Data Exposure,0.5358104077446936,Medium
+4.1,0,1,289,Internal,Broken Access Control,0.2483436721682143,Low
+7.8,1,1,243,External,Outdated Software / Missing Patch,0.7524187521110102,High
+2.4,0,1,884,Internal,Open Port / Unnecessary Service,0.11534127768724581,Low
+8.7,0,1,566,External,Remote Code Execution,0.5225219461791879,Medium
+8.2,1,1,720,External,Open Port / Unnecessary Service,0.9187836855813212,High
+3.1,1,0,790,Internal,Remote Code Execution,0.5809800562392775,Medium
+3.1,1,0,73,External,Weak Authentication,0.6724321560150724,High
+2.4,0,1,514,Internal,Outdated Software / Missing Patch,0.1188390334545429,Low
+1.1,0,0,523,External,SQL Injection,0.3178856470174743,Low
+6.6,0,0,619,External,Sensitive Data Exposure,0.5634342821007274,Medium
+4.7,0,0,691,External,Sensitive Data Exposure,0.4829496474609925,Medium
+9.2,0,0,719,Internal,Cross-Site Scripting (XSS),0.4330194760143688,Medium
+4.0,1,0,182,Internal,Remote Code Execution,0.5363011402795462,Medium
+1.1,1,1,441,External,Weak Authentication,0.4541433166632939,Medium
+3.0,0,1,897,External,Weak Authentication,0.3485811494966893,Low
+3.0,1,1,575,Internal,Cross-Site Scripting (XSS),0.4266864226029207,Medium
+5.0,1,1,756,External,Broken Access Control,0.708935899666275,High
+3.1,0,0,870,Internal,Broken Access Control,0.28645086931170327,Low
+3.6,0,1,441,External,Open Port / Unnecessary Service,0.3756215896138451,Medium
+9.3,1,1,421,External,Open Port / Unnecessary Service,0.7131167378144532,High
+6.5,0,0,657,Internal,Insecure Direct Object Reference,0.37321614577128326,Medium
+1.1,1,0,703,External,Insecure Direct Object Reference,0.6741276954086854,High
+2.8,1,0,505,External,Sensitive Data Exposure,0.5923796106696557,Medium
+3.2,0,0,500,Internal,Weak Authentication,0.25711253932651695,Low
+10.0,0,1,870,External,Cross-Site Scripting (XSS),0.682963510088063,High
+3.0,0,1,694,External,Cross-Site Scripting (XSS),0.27871957548495785,Low
+3.5,0,1,881,Internal,Open Port / Unnecessary Service,0.24186316920398257,Low
+2.5,0,0,391,External,Cross-Site Scripting (XSS),0.31210939992289555,Low
+5.6,1,1,348,External,Outdated Software / Missing Patch,0.5749580241466863,Medium
+3.6,0,1,848,External,Insecure Direct Object Reference,0.29193849604708494,Low
+3.0,0,0,96,External,Weak Authentication,0.30693996263345125,Low
+2.6,1,1,324,External,SQL Injection,0.5334070312603114,Medium
+4.7,1,1,674,Internal,Remote Code Execution,0.482347477797717,Medium
+4.7,1,0,406,External,Weak Authentication,0.7497694351277714,High
+6.0,1,1,545,External,Sensitive Data Exposure,0.647783054273456,Medium
+6.1,0,0,789,External,Open Port / Unnecessary Service,0.6947712019049488,High
+5.1,0,0,518,External,Insecure Direct Object Reference,0.5027967363614013,Medium
+2.5,1,1,306,Internal,Remote Code Execution,0.37650413056481036,Medium
+9.3,1,1,854,External,SQL Injection,0.8880274512417115,High
+6.6,0,1,234,External,Insecure Direct Object Reference,0.44712001231643644,Medium
+1.4,0,0,702,External,Remote Code Execution,0.3197239608020433,Low
+3.7,0,0,298,External,Misconfigured Server,0.4366454827228216,Medium
+5.5,0,0,771,External,Outdated Software / Missing Patch,0.5855722123376788,Medium
+6.6,1,0,670,Internal,Remote Code Execution,0.7168101748266743,High
+8.5,1,1,525,Internal,Sensitive Data Exposure,0.7080706843601944,High
+6.9,0,1,586,Internal,Outdated Software / Missing Patch,0.3141665206443515,Low
+1.0,0,1,278,Internal,Misconfigured Server,0.021029358856966676,Low
+9.9,1,0,781,External,Misconfigured Server,1.0,High
+7.6,0,1,225,Internal,Cross-Site Scripting (XSS),0.341905511739905,Low
+7.4,1,1,849,Internal,SQL Injection,0.6534513539643134,High
+1.4,0,0,16,External,Insecure Direct Object Reference,0.35018498083267124,Medium
+6.9,0,0,220,Internal,Open Port / Unnecessary Service,0.49314733982067305,Medium
+8.8,0,1,406,External,Sensitive Data Exposure,0.500394143881312,Medium
+6.5,1,0,149,External,Open Port / Unnecessary Service,0.7761743163158177,High
+9.8,0,0,673,External,Broken Access Control,0.7061242236381259,High
+3.3,0,0,268,Internal,Misconfigured Server,0.24773485450992808,Low
+1.2,0,1,140,Internal,SQL Injection,0.0,Low
+5.1,0,1,686,External,Remote Code Execution,0.4122313063662705,Medium
+5.0,0,0,303,Internal,Outdated Software / Missing Patch,0.19657466998955894,Low
+1.9,1,0,391,External,Cross-Site Scripting (XSS),0.6215768921171327,Medium
+5.0,0,0,321,Internal,Cross-Site Scripting (XSS),0.36917571909685215,Medium
+8.2,1,1,295,External,Misconfigured Server,0.8147600058924934,High
+6.6,0,0,634,External,Misconfigured Server,0.52146813902995,Medium
+2.2,0,0,812,External,Outdated Software / Missing Patch,0.4413635020289047,Medium
+6.9,0,0,495,External,Cross-Site Scripting (XSS),0.5443046365425177,Medium
+5.3,0,0,36,External,Sensitive Data Exposure,0.4286586423743304,Medium
+8.9,1,1,743,Internal,Misconfigured Server,0.6422863291137729,Medium
+6.9,1,0,787,Internal,Sensitive Data Exposure,0.6613703091475095,High
+1.4,0,1,116,External,Remote Code Execution,0.22761991636166823,Low
+9.6,1,1,767,Internal,Sensitive Data Exposure,0.7654116463138578,High
+7.8,1,1,668,External,Cross-Site Scripting (XSS),0.6826083088375472,High
+9.6,0,1,162,Internal,Weak Authentication,0.41353614811687384,Medium
+2.0,1,1,771,External,Weak Authentication,0.57753191589795,Medium
+4.0,0,1,354,External,Open Port / Unnecessary Service,0.359476413804869,Medium
+6.3,1,0,286,Internal,Outdated Software / Missing Patch,0.6744775533622366,High
+6.0,1,1,476,Internal,Weak Authentication,0.4712108959652705,Medium
+6.7,1,0,865,Internal,Cross-Site Scripting (XSS),0.7469924262124109,High
+4.8,0,0,257,Internal,Open Port / Unnecessary Service,0.25183056905286916,Low
+4.6,0,1,33,Internal,Misconfigured Server,0.21833690653479088,Low
+1.8,1,1,316,Internal,SQL Injection,0.4166184250999552,Medium
+2.3,1,1,692,Internal,Misconfigured Server,0.4859119639367927,Medium
+7.9,1,0,402,Internal,Cross-Site Scripting (XSS),0.7534101608356489,High
+8.0,1,1,243,Internal,Sensitive Data Exposure,0.6675484600979147,High
+4.1,0,1,638,Internal,Insecure Direct Object Reference,0.1896278627358566,Low
+1.6,1,1,115,Internal,Open Port / Unnecessary Service,0.304316682277093,Low
+9.2,1,1,564,External,Open Port / Unnecessary Service,0.9038045019027119,High
+9.4,1,1,586,External,Weak Authentication,0.8556358746791788,High
+6.8,0,0,716,External,Remote Code Execution,0.5894120865847279,Medium
+9.6,0,1,40,Internal,Sensitive Data Exposure,0.3636943172128686,Medium
+2.3,1,0,532,External,Insecure Direct Object Reference,0.6405851044502926,Medium
+7.1,0,1,146,External,Outdated Software / Missing Patch,0.509904281465243,Medium
+3.0,1,1,857,Internal,Cross-Site Scripting (XSS),0.39290263734908887,Medium
+8.0,0,0,363,External,Misconfigured Server,0.6048126755442299,Medium
+6.1,0,1,6,External,Misconfigured Server,0.503856163134378,Medium
+4.7,0,0,337,Internal,Open Port / Unnecessary Service,0.3391355296796653,Low
+7.1,0,1,662,External,Cross-Site Scripting (XSS),0.4918480954985277,Medium
+7.6,0,0,680,External,Outdated Software / Missing Patch,0.5729286383108109,Medium
+3.4,1,0,534,External,Cross-Site Scripting (XSS),0.6516877151026143,High
+5.2,0,1,410,Internal,Cross-Site Scripting (XSS),0.24427796522570225,Low
+4.5,0,1,26,External,SQL Injection,0.42240083700513037,Medium
+6.8,1,1,582,External,Remote Code Execution,0.7078085984242211,High
+4.2,0,1,285,External,Misconfigured Server,0.44455012170663605,Medium
+1.8,1,0,42,Internal,Remote Code Execution,0.3868989424857903,Medium
+2.2,1,1,2,External,Broken Access Control,0.48123177086980845,Medium
+3.4,1,1,662,External,Insecure Direct Object Reference,0.6319549601733238,Medium
+1.1,1,1,805,External,Cross-Site Scripting (XSS),0.48221247566546804,Medium
+5.8,0,1,390,Internal,Cross-Site Scripting (XSS),0.24115356454663633,Low
+7.2,0,0,676,Internal,Broken Access Control,0.4549633849814719,Medium
+8.3,1,0,840,Internal,Insecure Direct Object Reference,0.7926022913381133,High
+6.7,0,1,707,External,Outdated Software / Missing Patch,0.40499106703532534,Medium
+2.2,0,1,473,External,Insecure Direct Object Reference,0.2628509604903443,Low
+1.2,0,1,840,External,Weak Authentication,0.24519983544408436,Low
+9.2,1,0,563,External,Misconfigured Server,0.9250903897814944,High
+3.8,1,0,754,External,Weak Authentication,0.7496566922078385,High
+3.3,1,0,205,Internal,SQL Injection,0.4814612804130951,Medium
+2.5,0,0,420,External,Open Port / Unnecessary Service,0.3676075909040166,Medium
+4.3,0,1,784,External,Broken Access Control,0.38893768492368197,Medium
+1.9,0,1,658,Internal,Weak Authentication,0.15849801027132857,Low
+9.8,0,0,399,External,Cross-Site Scripting (XSS),0.7021085357842812,High
+5.0,0,1,406,Internal,Open Port / Unnecessary Service,0.32338541910064345,Low
+9.2,0,0,119,External,Remote Code Execution,0.6252251961099247,Medium
+4.1,1,1,753,External,Weak Authentication,0.6906590509500377,High
+7.8,0,1,432,Internal,Weak Authentication,0.3321089224444668,Low
+9.7,0,1,391,External,Insecure Direct Object Reference,0.6000688981234285,Medium
+3.6,1,1,690,External,Open Port / Unnecessary Service,0.6185356426017108,Medium
+3.6,0,1,556,External,Cross-Site Scripting (XSS),0.44563088195187406,Medium
+8.9,0,0,311,Internal,Open Port / Unnecessary Service,0.5625690851104325,Medium
+9.4,0,0,242,External,Cross-Site Scripting (XSS),0.6661513019665973,High
+3.2,1,0,662,External,Cross-Site Scripting (XSS),0.7457337335573638,High
+2.3,0,1,312,Internal,Sensitive Data Exposure,0.11014808808864801,Low
+2.2,1,1,208,External,Sensitive Data Exposure,0.47098326274057317,Medium
+7.3,0,0,857,External,Broken Access Control,0.6485453457004453,Medium
+9.6,1,0,517,External,Misconfigured Server,0.965445764623887,High
+4.8,1,1,517,External,SQL Injection,0.692405540585384,High
+6.7,1,1,162,External,Insecure Direct Object Reference,0.6830130817926344,High
+5.8,0,1,407,External,Remote Code Execution,0.45268628599415744,Medium
+6.0,0,1,496,External,Misconfigured Server,0.479283022197294,Medium
+1.4,1,0,832,External,Open Port / Unnecessary Service,0.6231245001997561,Medium
+3.0,0,1,873,Internal,Open Port / Unnecessary Service,0.1820508233954321,Low
+5.0,0,1,148,Internal,Open Port / Unnecessary Service,0.19834130351767218,Low
+6.5,1,1,74,Internal,SQL Injection,0.5917987006788804,Medium
+4.8,0,1,136,Internal,SQL Injection,0.23041678057117723,Low
+7.0,0,1,441,External,SQL Injection,0.5143151986254428,Medium
+4.5,1,1,48,External,Weak Authentication,0.5876277546236371,Medium
+3.0,1,0,891,Internal,Misconfigured Server,0.5351505845371076,Medium
+9.0,0,1,170,Internal,Weak Authentication,0.3625830448592085,Medium
+2.8,1,1,143,External,Cross-Site Scripting (XSS),0.5382207092012345,Medium
+4.8,0,1,114,Internal,Cross-Site Scripting (XSS),0.2605938495160489,Low
+7.3,0,1,317,External,Open Port / Unnecessary Service,0.5007607754151028,Medium
+6.5,1,1,567,External,Insecure Direct Object Reference,0.7669696405259122,High
+9.1,0,1,259,Internal,Broken Access Control,0.4395344129950225,Medium
+8.8,0,0,672,External,Insecure Direct Object Reference,0.7515261648342992,High
+1.1,0,0,867,External,Broken Access Control,0.33816418505902657,Low
+5.9,0,1,489,External,Sensitive Data Exposure,0.3607351553390213,Medium
+3.6,0,1,600,Internal,Sensitive Data Exposure,0.21695774478761184,Low
+8.4,0,0,863,External,Broken Access Control,0.6676849700505664,High
+4.7,1,1,699,External,SQL Injection,0.6016186642192004,Medium
+8.0,1,1,867,Internal,Open Port / Unnecessary Service,0.6907299345628051,High
+2.8,1,1,117,Internal,SQL Injection,0.3957164569627319,Medium
+7.9,0,0,605,External,Sensitive Data Exposure,0.6613780412078422,High
+8.9,1,0,372,Internal,Remote Code Execution,0.7545478691273322,High
+3.5,1,1,689,Internal,Sensitive Data Exposure,0.4556301359901655,Medium
+9.6,1,1,59,Internal,Remote Code Execution,0.697994729985549,High
+7.5,1,1,276,External,Sensitive Data Exposure,0.8415660886604184,High
+1.6,0,1,369,External,Remote Code Execution,0.20830201177706575,Low
+1.3,0,1,300,Internal,Broken Access Control,0.07464195668879688,Low
+6.5,0,1,388,Internal,Outdated Software / Missing Patch,0.33224854616903793,Low
+1.7,1,1,309,External,Remote Code Execution,0.4074273203618967,Medium
+4.7,0,1,579,External,Weak Authentication,0.31351824829525704,Low
+8.2,1,0,883,Internal,Insecure Direct Object Reference,0.876346474096946,High
+1.3,1,1,327,Internal,Broken Access Control,0.23831071898358325,Low
+10.0,1,1,118,Internal,Sensitive Data Exposure,0.7353020127883184,High
+7.6,1,1,707,External,Sensitive Data Exposure,0.7388665074745493,High
+8.4,1,0,154,External,Cross-Site Scripting (XSS),0.848397550417999,High
+6.6,0,1,467,Internal,Open Port / Unnecessary Service,0.2238181992308273,Low
+4.7,1,1,662,External,Insecure Direct Object Reference,0.6032408491615104,Medium
+7.5,1,1,331,External,SQL Injection,0.7951078196640731,High
+5.6,0,1,457,External,Broken Access Control,0.3579517468430633,Medium
+8.1,0,0,301,External,Weak Authentication,0.6609935662393113,High
+7.3,1,1,104,Internal,Cross-Site Scripting (XSS),0.599942665245207,Medium
+2.4,1,0,310,External,Insecure Direct Object Reference,0.7261373371898419,High
+7.0,0,0,301,External,Open Port / Unnecessary Service,0.5579955430593364,Medium
+1.9,1,1,796,Internal,Misconfigured Server,0.4428929241823625,Medium
+4.4,0,0,579,External,Insecure Direct Object Reference,0.5246101143787387,Medium
+9.0,1,0,636,External,Cross-Site Scripting (XSS),0.9259999124674191,High
+10.0,1,0,865,Internal,Outdated Software / Missing Patch,0.7649077561087472,High
+8.4,1,1,402,Internal,Insecure Direct Object Reference,0.7258053523126589,High
+6.4,0,1,624,External,Broken Access Control,0.40444722137448963,Medium
+4.0,1,1,112,Internal,Cross-Site Scripting (XSS),0.4125514245910825,Medium
+6.7,0,0,426,Internal,Cross-Site Scripting (XSS),0.4693254936666761,Medium
+5.3,1,0,19,Internal,Broken Access Control,0.6453533339952199,Medium
+3.8,0,1,641,External,Remote Code Execution,0.31433877630321166,Low
+1.4,0,0,667,Internal,Sensitive Data Exposure,0.19845547126064433,Low
+9.7,1,1,482,Internal,Sensitive Data Exposure,0.7003488556743104,High
+8.0,0,1,403,Internal,Insecure Direct Object Reference,0.4414668176680071,Medium
+8.5,0,0,704,External,Broken Access Control,0.7968427798201569,High
+8.9,1,1,522,Internal,Outdated Software / Missing Patch,0.5880056587240035,Medium
+9.7,0,1,497,Internal,Outdated Software / Missing Patch,0.5099322566103245,Medium
+6.4,1,1,716,Internal,Sensitive Data Exposure,0.4348690089324416,Medium
+5.2,0,1,739,External,Weak Authentication,0.42575887416378794,Medium
+2.5,1,1,579,Internal,Sensitive Data Exposure,0.3392274404692073,Low
+9.9,0,0,537,Internal,Outdated Software / Missing Patch,0.674924272838836,High
+6.0,0,1,572,External,Open Port / Unnecessary Service,0.4600962041928308,Medium
+7.2,1,0,338,Internal,Sensitive Data Exposure,0.6559391903799885,High
+3.4,0,1,478,External,Weak Authentication,0.30458991282011455,Low
+4.1,0,1,749,External,SQL Injection,0.3473463235089999,Low
+6.8,0,0,380,Internal,Open Port / Unnecessary Service,0.43652669153924556,Medium
+1.1,0,1,143,External,Weak Authentication,0.19953702092545908,Low
+3.2,1,0,314,External,Open Port / Unnecessary Service,0.6942387231435206,High
+4.5,0,1,428,External,Remote Code Execution,0.45329083187401237,Medium
+3.0,1,0,751,External,Cross-Site Scripting (XSS),0.7117928245675964,High
+5.5,0,1,551,External,Weak Authentication,0.3668109587259064,Medium
+4.3,0,1,481,External,Remote Code Execution,0.28903188189792295,Low
+2.0,1,1,420,External,Remote Code Execution,0.4755623570505482,Medium
+4.4,1,1,57,External,Sensitive Data Exposure,0.6538274298821534,High
