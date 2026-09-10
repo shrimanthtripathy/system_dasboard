@@ -86,7 +86,7 @@ security_dashboard/
    python app.py
    ```
 
-6. Open your browser to **http://127.0.0.1:8050**
+6. Open your browser to: https://unmilitant-jaylynn-uncollaboratively.ngrok-free.dev
 
 ---
 
